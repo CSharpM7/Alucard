@@ -25,7 +25,7 @@ en: &DEFAULT_EN
 
   clients:
     section: clients
-    title: "FAQ"
+    title: "Screenshots"
     max-height: 100px
     horizontal-scrolling: "yes" #"yes/no"
     list:
@@ -61,13 +61,13 @@ en: &DEFAULT_EN
       - url: https://ko-fi.com/csharpm7
         icon: "fab fa-patreon"
   team:
-      title: ""
+      title: "Moveset"
       text: ""
-      subtext:
+      subtext: ""
       section: team
       people:
-        - name: "Kay Garland"
-          role: "Lead Designer"
+        - name: "Normals"
+          role: "Whoa"
           image: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
           url: https://twitter.com
 
