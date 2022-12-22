@@ -60,7 +60,18 @@ en: &DEFAULT_EN
         icon: "fab fa-github"
       - url: https://ko-fi.com/csharpm7
         icon: "fab fa-patreon"
-        
+  team:
+      title: ""
+      text: ""
+      subtext:
+      section: team
+      people:
+        - name: "Kay Garland"
+          role: "Lead Designer"
+          image: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
+          url: https://twitter.com
+
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
