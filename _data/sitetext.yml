@@ -18,13 +18,14 @@ en: &DEFAULT_EN
     
 
   about:
-    title: "About Us"
-    text: "our story"
+    title: "Alucard Joins Smash!"
+    text: "A moveset mod by C#"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
   clients:
     section: clients
+    title: "FAQ"
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
@@ -38,7 +39,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "What tools should I use?"
-        desc: "[**CrossMod**](https://github.com/M-1-RLG/CrossMod) or [**SSBH_Editor**](https://github.com/ScanMountGoat/ssbh_editor) for previewing models and assigning materials <br/> [**StudioSB**](https://github.com/Ploaj/StudioSB) for importing models and changing level collision <br/> [**SwitchToolbox**](https://github.com/KillzXGaming/Switch-Toolbox) for changing textures <br/> Blender (and [**carlos' tools**](https://github.com/ssbucarlos/smash-ultimate-blender)) for editing models <br/> [**Smush Material Research**](https://github.com/ScanMountGoat/Smush-Material-Research) for material/light/xml info. Contains links for XML(exe) and ssbh_data_json for additional editing <br/> [**PRCEditor**](https://github.com/BenHall-7/paracobNET/releases/tag/v3.0) and [**Parcel**](https://github.com/blu-dev/parcel/releases/tag/v1.0.0) for editing stdat,stprm and prc files"
+        desc: ""
         icon: fas fa-solid fa-toolbox
       - title: "What makes a mod not wifi safe?"
         desc: "Anything that changes gameplay is not wifi safe. Things like changing motion files of a moving platform, the lvd file or an stdat parameter can lead to desyncs."
