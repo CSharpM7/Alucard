@@ -27,7 +27,7 @@ en: &DEFAULT_EN
     section: clients
     title: "FAQ"
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "PictochatDX"
         url: "pictochat"
