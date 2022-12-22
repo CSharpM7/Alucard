@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 
-    text: 
-#    button: Tell Me More
-#    buttonlink: "#services"
+    title: test
+    text: test
+    button: Tell Me More
+    buttonlink: "#services"
     
 
   about:

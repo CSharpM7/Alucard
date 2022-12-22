@@ -26,10 +26,8 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   nav:
-#    - title: "Portafolio"
-#      section: portafolio
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: " "
+      url: " "
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
