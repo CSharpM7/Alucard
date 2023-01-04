@@ -20,7 +20,9 @@ en: &DEFAULT_EN
   about:
     title: "Alucard Joins Smash!"
     text: "A moveset mod by C#"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "The son of Dracula takes over Richter's spot as the new Castlevania rep! Alucard is a master swordsman who can use dark magic to overpower foes. His heirloom sword has phenomenal reach, but if an opponent gets too close, he won't think twice about throwing a quick punch. His special and smash attacks make use of his dark magic, delivering devastating blows. When you're on your Achilles' heel, use your command grab to enter Dark Metamorphosis and heal from each successful hit of your sword.
+    
+    As Alucard is a master of many skills, harnessing his true power might take a little more practice. Precision and reaction will be your greatest tools with Alucard, knowing where your opponent will be and making the most out of your combo starters will net you many victories. Mix up your strategy with his special attack projectiles, or his side special command grab. As a light fighter, Alucard can't take too many hits so be cautious of the moves you throw out."
     section: about
 
   clients:
@@ -56,18 +58,46 @@ en: &DEFAULT_EN
     text: "Select frequently asked questions and possible solutions"
     section: services
     list:
-      - title: "What tools should I use?"
-        desc: ""
-        icon: fas fa-solid fa-toolbox
-      - title: "What makes a mod not wifi safe?"
-        desc: "Anything that changes gameplay is not wifi safe. Things like changing motion files of a moving platform, the lvd file or an stdat parameter can lead to desyncs."
+      - title: "Is this a new fighter?"
+        desc: "Technically no, Alucard is a COMPLETE replacement over Richter. This means everything from most of the moveset, to classic mode route, to tips, and even Palutena's Guidance (which is just her saying she has no data on Alucard) are replaced."
+        icon: fas fa-solid fa-question
+      - title: "What happens to Richter?"
+        desc: "Richter is being moved to Simon's alternate slots (similar to Bayo 1/Bayo 2, Olimar/Alpha, Ike/Ike), so the only difference will be Holy Water is now a fire-based move."
+      - title: "What happens to Alucard's Assist Trophy"
+        desc: "It's still there, but it's renamed to 'Doppelganger'."
+        icon: fas fa-solid fa-person
+      - title: "Is this wifi safe?"
+        desc: "All players must be using this mod to make this wifi safe. Obviously, do not play Alucard on quickplay, but you can play in Arenas as long as all parties have Alucard active, and are on the same version of Alucard as well."
         icon: fas fa-solid fa-wifi
-      #- title: "Responsive Design"
-      #  desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      #  icon: fas fa-laptop
-      #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-      #  desc: "Your description here, full **Markdown** support"
-      #  icon: fab fa-markdown
+      - title: "Is this compatible with other modpacks (ie HDR, Ultimate-S)"
+        desc: "Yes, though this will not work out of the box. Most modpacks use 'low-priority' functions, so single mods (like Alucard) can override their changes. However, there might be Arcropolis conflicts with motion files, there will be different fighter params, or there might be edited moves in the modpack that aren't edited for Alucard. I recommend making a copy of the modpack, but removing sound, model and motion files that are related to Richter."
+        icon: fas fa-solid fa-folders
+      - title: "Could I run tournaments with Alucard?"
+        desc: "Uhhhhhhh ya sure. It's not like he's a new, uncontested top tier character. You probably want to get feedback from your local scene, and maybe not make it a PR sanctioned event. Oh and probably don't run a bracket with Alucard in it for a Nintendo sponsored event."
+        icon: fas fa-solid fa-trophy
+
+  team:
+      title: "Moveset"
+      text: ""
+      subtext: ""
+      section: team
+      people:
+        - name: "Ground Attacks"
+          role: "Whoa"
+          image: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
+          url: https://twitter.com
+        - name: "Smashes"
+          role: "Whoa"
+          image: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
+          url: https://twitter.com
+        - name: "Aerials"
+          role: "Whoa"
+          image: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
+          url: https://twitter.com
+        - name: "Specials"
+          role: "Whoa"
+          image: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
+          url: https://twitter.com
 
   footer:
     legal: " "
@@ -78,16 +108,6 @@ en: &DEFAULT_EN
         icon: "fab fa-github"
       - url: https://ko-fi.com/csharpm7
         icon: "fab fa-patreon"
-  team:
-      title: "Moveset"
-      text: ""
-      subtext: ""
-      section: team
-      people:
-        - name: "Normals"
-          role: "Whoa"
-          image: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
-          url: https://twitter.com
 
 
 en-US:
