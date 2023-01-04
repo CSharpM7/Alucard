@@ -64,13 +64,13 @@ en: &DEFAULT_EN
         desc: "Richter is being moved to Simon's alternate slots (similar to Bayo 1/Bayo 2, Olimar/Alpha, Ike/Ike), so the only difference will be Holy Water is now a fire-based move."
       - title: "What happens to Alucard's Assist Trophy"
         desc: "It's still there, but it's renamed to 'Doppelganger'."
-        icon: fas fa-person
+        icon: fas fa-solid fa-user-circle
       - title: "Is this wifi safe?"
         desc: "All players must be using this mod to make this wifi safe. Obviously, do not play Alucard on quickplay, but you can play in Arenas as long as all parties have Alucard active, and are on the same version of Alucard as well."
         icon: fas fa-solid fa-wifi
       - title: "Is this compatible with other modpacks (ie HDR, Ultimate-S)"
         desc: "Yes, though this will not work out of the box. Most modpacks use 'low-priority' functions, so single mods (like Alucard) can override their changes. However, there might be Arcropolis conflicts with motion files, there will be different fighter params, or there might be edited moves in the modpack that aren't edited for Alucard. I recommend making a copy of the modpack, but removing sound, model and motion files that are related to Richter."
-        icon: fas fa-folders
+        icon: fas fa-solid fa-database
       - title: "Could I run tournaments with Alucard?"
         desc: "Uhhhhhhh ya sure. It's not like he's a new, uncontested top tier character. You probably want to get feedback from your local scene, and maybe not make it a PR sanctioned event. Oh and probably don't run a bracket with Alucard in it for a Nintendo sponsored event."
         icon: fas fa-solid fa-trophy
