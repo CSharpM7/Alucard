@@ -20,7 +20,9 @@ en: &DEFAULT_EN
   about:
     title: "Alucard Joins Smash!"
     text: "A moveset mod by C#"
-    body: "The son of Dracula takes over Richter's spot as the new Castlevania rep! Alucard is a master swordsman who can use dark magic to overpower foes. His heirloom sword has phenomenal reach, but if an opponent gets too close, he won't think twice about throwing a quick punch. His special and smash attacks make use of his dark magic, delivering devastating blows. When you're on your Achilles' heel, use your command grab to enter Dark Metamorphosis and heal from each successful hit of your sword.<br />    
+    body: "The son of Dracula takes over Richter's spot as the new Castlevania rep! Alucard is a master swordsman who can use dark magic to overpower foes. His heirloom sword has phenomenal reach, but if an opponent gets too close, he won't think twice about throwing a quick punch. His special and smash attacks make use of his dark magic, delivering devastating blows. When you're on your Achilles' heel, use your command grab to enter Dark Metamorphosis and heal from each successful hit of your sword.<br/>
+    
+        
     As Alucard is a master of many skills, harnessing his true power might take a little more practice. Precision and reaction will be your greatest tools with Alucard, knowing where your opponent will be and making the most out of your combo starters will net you many victories. Mix up your strategy with his special attack projectiles, or his side special command grab. As a light fighter, Alucard can't take too many hits so be cautious of the moves you throw out."
     section: about
 
@@ -59,9 +61,10 @@ en: &DEFAULT_EN
     list:
       - title: "Is this a new fighter?"
         desc: "Technically no, Alucard is a COMPLETE replacement over Richter. This means everything from most of the moveset, to classic mode route, to tips, and even Palutena's Guidance (which is just her saying she has no data on Alucard) are replaced."
-        icon: fas fa-solid fa-question
+        icon: fas fa-solid fa-user-plus
       - title: "What happens to Richter?"
         desc: "Richter is being moved to Simon's alternate slots (similar to Bayo 1/Bayo 2, Olimar/Alpha, Ike/Ike), so the only difference will be Holy Water is now a fire-based move."
+        icon: fas fa-solid fa-times
       - title: "What happens to Alucard's Assist Trophy"
         desc: "It's still there, but it's renamed to 'Doppelganger'."
         icon: fas fa-solid fa-user-circle
