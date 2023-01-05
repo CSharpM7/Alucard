@@ -6,7 +6,7 @@
     .portfolio-link {
       position: relative;
       display: block;
-      max-width: 600px;
+      max-width: 400px;
       margin: 0 auto;
       cursor: pointer;
       .portfolio-hover {
@@ -62,7 +62,7 @@
     z-index: 2;
   }
 }
-@media (min-width: 767px) {
+@media (min-width: 1767px) {
   #portfolio {
     .portfolio-item {
       margin: 0 0 30px;
@@ -75,7 +75,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1rem;
+    margin-top: 2rem;
     margin-bottom: 1rem;
     max-width: 75vw;
     vertical-align: middle;
