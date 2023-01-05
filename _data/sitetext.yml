@@ -29,7 +29,7 @@ en: &DEFAULT_EN
   clients:
     section: clients
     title: "Screenshots"
-    max-height: 100px
+    max-height: 160px
     horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "PictochatDX"
