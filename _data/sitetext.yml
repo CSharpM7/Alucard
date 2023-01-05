@@ -33,26 +33,14 @@ en: &DEFAULT_EN
     horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "PictochatDX"
-        url: "pictochat"
+        url: ""
         logo: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
-      - title: "PictochatDX"
-        url: "pictochat"
+      - title: "Fair"
+        url: ""
         logo: assets\img\screenshots\screen1.png
-      - title: "PictochatDX"
-        url: "pictochat"
-        logo: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
-      - title: "PictochatDX"
-        url: "pictochat"
-        logo: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
-      - title: "PictochatDX"
-        url: "pictochat"
-        logo: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
-      - title: "PictochatDX"
-        url: "pictochat"
-        logo: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
-      - title: "PictochatDX"
-        url: "pictochat"
-        logo: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
+      - title: "Victory"
+        url: ""
+        logo: assets\img\screenshots\screen5.png
   
   services:
     title: "FAQ"
@@ -93,9 +81,9 @@ en: &DEFAULT_EN
           image: assets\img\moveset\ftilt.png
           url: "pictochat"
         - name: "Smashes"
-          role: "Whoa"
+          role: "Magic meets sword"
           image: assets\img\moveset\fsmash.png
-          url: "pictochat"
+          url: "smashes"
         - name: "Aerials"
           role: "Whoa"
           image: assets\img\moveset\bair.png
