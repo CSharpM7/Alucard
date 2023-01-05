@@ -132,11 +132,11 @@ en: &DEFAULT_EN
         - title: "Public Release"
           year: "october 2023"
           desc: "Your description here, **Markdown** is fully supported."
-          image: assets/img/logo.png
+          image: assets/img/timeline/release.png
           alt:
           # you can enforce the alignment
           align: right
-      end: "Current Version: <br> 0.5"
+      end: "Current<br>Version:<br>0.5"
 
   footer:
     legal: " "
