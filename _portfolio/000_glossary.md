@@ -1,5 +1,5 @@
 ---
-subtitle: "https://www.youtube.com/watch?v=ieQQMxW9A6E"
+subtitle: "https://www.youtube.com/embed/ieQQMxW9A6E"
 image: "https://static.thenounproject.com/png/2556719-200.png"
 alt: 
 ---
