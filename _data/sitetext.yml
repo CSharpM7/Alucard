@@ -87,23 +87,23 @@ en: &DEFAULT_EN
         - name: "Normals"
           role: "Whoa"
           image: assets\img\moveset\dash.png
-          url: https://twitter.com
+          url: "pictochat"
         - name: "Tilts"
           role: "Whoa"
           image: assets\img\moveset\ftilt.png
-          url: https://twitter.com
+          url: "pictochat"
         - name: "Smashes"
           role: "Whoa"
           image: assets\img\moveset\fsmash.png
-          url: https://twitter.com
+          url: "pictochat"
         - name: "Aerials"
           role: "Whoa"
           image: assets\img\moveset\bair.png
-          url: https://twitter.com
+          url: "pictochat"
         - name: "Specials"
           role: "Whoa"
           image: assets\img\moveset\upspecial.png
-          url: https://twitter.com
+          url: "pictochat"
 
   footer:
     legal: " "
