@@ -67,7 +67,7 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-trophy
       - title: "When will this release?"
         desc: "Just scroll down a little bit more!"
-        icon: fas fa-solid fa-clock-o
+        icon: fas fa-clock-o
       - title: "?"
         desc: "?!?"
         icon: fas fa-solid fa-coffee
