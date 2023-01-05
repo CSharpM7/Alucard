@@ -32,9 +32,12 @@ en: &DEFAULT_EN
     max-height: 240px
     horizontal-scrolling: "yes" #"yes/no"
     list:
-      - title: "PictochatDX"
-        url: ""
-        logo: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
+      - title: "Trailer"
+        url: "https://www.youtube.com/watch?v=Ocub9wQ0lag"
+        logo: https://i.ytimg.com/an_webp/Ocub9wQ0lag/mqdefault_6s.webp?du=3000&sqp=CKiq2p0G&rs=AOn4CLDKcXTqtMyaIn8Kj_JlgGI8shvBsg
+      - title: "Teaser"
+        url: "https://www.youtube.com/watch?v=ZC2azKbwPXE"
+        logo: https://i.ytimg.com/an_webp/ZC2azKbwPXE/mqdefault_6s.webp?du=3000&sqp=CN_R2p0G&rs=AOn4CLA2EQf85A8HSs1ImOEYzfNCKKFIZg
       - title: "Fair"
         url: ""
         logo: assets\img\screenshots\screen1.png
@@ -130,7 +133,7 @@ en: &DEFAULT_EN
           image: assets/img/timeline/3.jpg
           alt: image alt text
         - title: "Public Release"
-          year: "october 2023"
+          year: "October 2023"
           desc: "Your description here, **Markdown** is fully supported."
           image: assets/img/timeline/release.png
           alt:
