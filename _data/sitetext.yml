@@ -72,26 +72,65 @@ en: &DEFAULT_EN
       subtext: ""
       section: team
       people:
-        - name: "Normals"
-          role: "Whoa"
-          image: assets\img\moveset\dash.png
-          url: "pictochat"
+#        - name: "Normals"
+#          role: "Whoa"
+#          image: assets\img\moveset\dash.png
+#          url: "pictochat"
         - name: "Tilts"
-          role: "Whoa"
+          role: "Strong swordsmanship"
           image: assets\img\moveset\ftilt.png
-          url: "pictochat"
+          url: "tilts"
         - name: "Smashes"
           role: "Magic meets sword"
           image: assets\img\moveset\fsmash.png
           url: "smashes"
         - name: "Aerials"
-          role: "Whoa"
+          role: "Versatile reach"
           image: assets\img\moveset\bair.png
-          url: "pictochat"
+          url: "aerials"
         - name: "Specials"
-          role: "Whoa"
+          role: "Harness the night"
           image: assets\img\moveset\upspecial.png
-          url: "pictochat"
+          url: "specials"
+        - name: "Final Smash"
+          role: "A one-of-a-kind finale"
+          image: assets\img\moveset\final.png
+          url: "finalsmash"
+        - name: "Dark Metamorphosis"
+          role: "Take back the lead"
+          image: assets\img\moveset\sidespecial.png
+          url: "metamorphosis"
+  
+  timeline:
+      title: "Timeline"
+      text: "Lorem ipsum timeline"
+      section: timeline
+      # left is the default
+      #start_align: "left"
+      events:
+        - title: "Our Humble Beginnings"
+          year: "2009-2011"
+          desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+          image: assets/img/timeline/1.jpg
+          alt:
+        - title: "An Agency is Born"
+          year: "March 2011"
+          desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+          image: assets/img/timeline/2.jpg
+          alt:
+        - title: "Jekyll Theme is created"
+          year: "2019"
+          desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+          image: assets/img/timeline/3.jpg
+          alt: image alt text
+        - title: "Title"
+          year: "2009-2011"
+          desc: "Your description here, **Markdown** is fully supported."
+          image: assets/img/timeline/4.jpg
+          alt:
+          # you can enforce the alignment
+          align: right
+      end: "Be Part <br> of Our <br> Story!"
 
   footer:
     legal: " "
