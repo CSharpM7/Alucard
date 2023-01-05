@@ -26,7 +26,7 @@
             <div class="modal-body">
               <!-- Project Details Go Here -->
               {% if project.url %}
-                <iframe width="420" height="315" src="{{project.url}}" frameborder="0" allowfullscreen></iframe>
+                <iframe width="420" height="315" src="{{project.url}}" frameborder="0"></iframe>
               {% else %}
                 <h2 class="text-uppercase">{{ project.title }}</h2>
                 <p class="item-intro text-light">{{ project.subtitle }}</p>
@@ -36,7 +36,8 @@
                   alt="{{ project.alt }}"
                 />
               {% endif %}
-              <p>{{ project.content }}</p>
+              <!-- <p>{{ project.content }}</p> -->
+              <p><br></p>
               <button
                 class="btn btn-primary"
                 data-dismiss="modal"
