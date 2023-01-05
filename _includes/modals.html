@@ -29,6 +29,12 @@
                 src="{{ project.image }}"
                 alt="{{ project.alt }}"
               />
+              {% if project.url %}
+              <p>
+                <iframe width="480" height="360" src="{{project.url}}" frameborder="0"> </iframe>
+              </p>
+              
+              {% endif %}
               <button
                 class="btn btn-primary"
                 data-dismiss="modal"
