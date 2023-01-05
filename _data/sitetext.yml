@@ -65,6 +65,12 @@ en: &DEFAULT_EN
       - title: "Could I run tournaments with Alucard?"
         desc: "Uhhhhhhh ya sure. It's not like he's a new, uncontested top tier character. You probably want to get feedback from your local scene, and maybe not make it a PR sanctioned event. Oh and probably don't run a bracket with Alucard in it for a Nintendo sponsored event."
         icon: fas fa-solid fa-trophy
+      - title: "When will this release?"
+        desc: "Just scroll down a little bit more!"
+        icon: fas fa-solid fa-clock-o
+      - title: "?"
+        desc: "?!?"
+        icon: fas fa-solid fa-coffee
 
   team:
       title: "Moveset"
@@ -98,39 +104,39 @@ en: &DEFAULT_EN
           url: "finalsmash"
         - name: "Dark Metamorphosis"
           role: "Take back the lead"
-          image: assets\img\moveset\sidespecial.png
+          image: assets\img\moveset\sspecial.png
           url: "metamorphosis"
   
   timeline:
       title: "Timeline"
-      text: "Lorem ipsum timeline"
+      text: ""
       section: timeline
       # left is the default
       #start_align: "left"
       events:
-        - title: "Our Humble Beginnings"
-          year: "2009-2011"
-          desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        - title: "Overview"
+          year: "January 2023"
+          desc: ""
           image: assets/img/timeline/1.jpg
           alt:
-        - title: "An Agency is Born"
-          year: "March 2011"
-          desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        - title: "Something"
+          year: "?!?"
+          desc: ""
           image: assets/img/timeline/2.jpg
           alt:
-        - title: "Jekyll Theme is created"
-          year: "2019"
-          desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        - title: "Expressions Update"
+          year: "?!?"
+          desc: ""
           image: assets/img/timeline/3.jpg
           alt: image alt text
-        - title: "Title"
-          year: "2009-2011"
+        - title: "WOAH?!?"
+          year: "?!?"
           desc: "Your description here, **Markdown** is fully supported."
           image: assets/img/timeline/4.jpg
           alt:
           # you can enforce the alignment
           align: right
-      end: "Be Part <br> of Our <br> Story!"
+      end: "October <br> 2023 <br> Public Release"
 
   footer:
     legal: " "
@@ -140,7 +146,7 @@ en: &DEFAULT_EN
       - url: https://github.com/CSharpM7
         icon: "fab fa-github"
       - url: https://ko-fi.com/csharpm7
-        icon: "fab fa-patreon"
+        icon: "fab fa-coffee"
 
 
 en-US:
