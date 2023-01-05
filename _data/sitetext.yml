@@ -129,14 +129,14 @@ en: &DEFAULT_EN
           desc: ""
           image: assets/img/timeline/3.jpg
           alt: image alt text
-        - title: "WOAH?!?"
-          year: "?!?"
+        - title: "Public Release"
+          year: "october 2023"
           desc: "Your description here, **Markdown** is fully supported."
-          image: assets/img/timeline/4.jpg
+          image: assets/img/logo.png
           alt:
           # you can enforce the alignment
           align: right
-      end: "October <br> 2023 <br> Public Release"
+      end: "Current Version: <br> 0.5"
 
   footer:
     legal: " "
