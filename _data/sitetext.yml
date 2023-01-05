@@ -34,15 +34,14 @@ en: &DEFAULT_EN
     list:
       - title: "Trailer"
         url: "https://www.youtube.com/watch?v=Ocub9wQ0lag"
-        logo: https://i.ytimg.com/an_webp/Ocub9wQ0lag/mqdefault_6s.webp?du=3000&sqp=CKiq2p0G&rs=AOn4CLDKcXTqtMyaIn8Kj_JlgGI8shvBsg
+        logo: https://i9.ytimg.com/vi_webp/Ocub9wQ0lag/mqdefault.webp?v=63a1933f&sqp=COTr2p0G&rs=AOn4CLCJG8ATemwqJE6zFIvRBK1r3u98tg
       - title: "Teaser"
         url: "https://www.youtube.com/watch?v=ZC2azKbwPXE"
-        logo: https://i.ytimg.com/an_webp/ZC2azKbwPXE/mqdefault_6s.webp?du=3000&sqp=CN_R2p0G&rs=AOn4CLA2EQf85A8HSs1ImOEYzfNCKKFIZg
+        logo: https://i9.ytimg.com/vi_webp/ZC2azKbwPXE/mqdefault.webp?v=63a962fa&sqp=COTr2p0G&rs=AOn4CLCAE-m80aAnzWVJ4C8vu4mHicWHCA
       - title: "Fair"
         url: ""
         logo: assets\img\screenshots\screen1.png
       - title: "Victory"
-        url: ""
         logo: assets\img\screenshots\screen5.png
   
   services:

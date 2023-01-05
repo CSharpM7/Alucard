@@ -4,9 +4,13 @@
     <div class="row" {% if site.data.sitetext[site.locale].clients.horizontal-scrolling == "yes" %} id="scrolling-clients" {% endif %}>
     {% for client in site.data.sitetext[site.locale].clients.list %}
       <div class="col-sm-4">
-        <a href="{{ client.url | default: "" }}">
+        {% if client.url %}
+        <a href="{{ client.url }}">
           <img class="img-fluid d-block mx-auto" src="{{ client.logo }}" alt="{{ client.title }}" style="max-height: {{ site.data.sitetext[site.locale].clients.max-height | default: "100px" }}">
         </a>
+        {% else %}
+          <img class="img-fluid d-block mx-auto" src="{{ client.logo }}" alt="{{ client.title }}" style="max-height: {{ site.data.sitetext[site.locale].clients.max-height | default: "100px" }}">
+        {% endif %}
       </div>
     {% endfor %}
     </div>
