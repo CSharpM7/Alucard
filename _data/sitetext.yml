@@ -37,7 +37,7 @@ en: &DEFAULT_EN
         logo: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
       - title: "PictochatDX"
         url: "pictochat"
-        logo: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
+        logo: assets\img\screenshots\screen1.png
       - title: "PictochatDX"
         url: "pictochat"
         logo: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
@@ -86,23 +86,23 @@ en: &DEFAULT_EN
       people:
         - name: "Normals"
           role: "Whoa"
-          image: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
+          image: assets\img\moveset\dash.png
           url: https://twitter.com
         - name: "Tilts"
           role: "Whoa"
-          image: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
+          image: assets\img\moveset\ftilt.png
           url: https://twitter.com
         - name: "Smashes"
           role: "Whoa"
-          image: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
+          image: assets\img\moveset\fsmash.png
           url: https://twitter.com
         - name: "Aerials"
           role: "Whoa"
-          image: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
+          image: assets\img\moveset\bair.png
           url: https://twitter.com
         - name: "Specials"
           role: "Whoa"
-          image: https://ssb.wiki.gallery/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png
+          image: assets\img\moveset\upspecial.png
           url: https://twitter.com
 
   footer:

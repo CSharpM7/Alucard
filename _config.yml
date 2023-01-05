@@ -22,9 +22,9 @@ title      : Alucard
 email      :  #this is also the email contact forms will go to
 description: ""
 author     : C#
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:     #optional, defaults to site title
+   path: assets\img\logo.png
+   height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
