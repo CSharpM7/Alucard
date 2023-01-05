@@ -25,8 +25,8 @@
           <div class="col-lg-8 mx-auto">
             <div class="modal-body">
               <!-- Project Details Go Here -->
-              {% if project.subtitle %}
-                <iframe width="420" height="315" src="{{project.subtitle}}" frameborder="0" allowfullscreen></iframe>
+              {% if project.url %}
+                <iframe width="420" height="315" src="{{project.url}}" frameborder="0" allowfullscreen></iframe>
               {% else %}
                 <h2 class="text-uppercase">{{ project.title }}</h2>
                 <p class="item-intro text-light">{{ project.subtitle }}</p>
