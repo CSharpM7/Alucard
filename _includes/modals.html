@@ -25,6 +25,16 @@
           <div class="col-lg-8 mx-auto">
             <div class="modal-body">
               <!-- Project Details Go Here -->
+              {% if project.url %}
+                <iframe width="420" height="315" src="{{project.url}}" frameborder="0" allowfullscreen></iframe>
+              {% else %}
+              <img
+                class="img-fluid d-block mx-auto"
+                src="{{ project.image }}"
+                alt="{{ project.alt }}"
+              />
+              {% endif %}
+              <!--
               <h2 class="text-uppercase">{{ project.title }}</h2>
               <p class="item-intro text-light">{{ project.subtitle }}</p>
               <img
@@ -33,12 +43,13 @@
                 alt="{{ project.alt }}"
               />
               <p>{{ project.content }}</p>
+              -->
               <button
                 class="btn btn-primary"
                 data-dismiss="modal"
                 type="button"
               >
-                <i class="fas fa-times"></i>
+                <i class="fas fa-solid fa-times-circle"></i>
                 {{ site.data.sitetext[site.locale].portfolio.closebutton |
                 default: "Close" }}
               </button>

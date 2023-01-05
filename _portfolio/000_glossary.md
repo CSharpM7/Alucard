@@ -1,13 +1,7 @@
 ---
-title: Glossary
-subtitle: 
+url: "https://www.youtube.com/watch?v=ieQQMxW9A6E"
 image: "https://static.thenounproject.com/png/2556719-200.png"
 alt: 
-
-caption:
-  title: Glossary
-  subtitle: 
-  thumbnail: "https://static.thenounproject.com/png/2556719-200.png"
 ---
 
 This is a table of commonly used phrases in either folder names, files names, or stdat parameters
