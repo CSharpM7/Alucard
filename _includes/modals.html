@@ -24,16 +24,15 @@
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <div class="modal-body">
-              <img
-                class="img-fluid d-block mx-auto"
-                src="{{ project.image }}"
-                alt="{{ project.alt }}"
-              />
               {% if project.url && project.url !="" %}
-              <p>
-                <p>{{ project.content }}</p>
-              </p>
-              
+                <!--<p>{{ project.content }}</p>-->
+                <iframe width="1280" height="720" src="https://www.youtube.com/embed/Ocub9wQ0lag" title="The Tragic Prince" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              {% else %}
+                <img
+                  class="img-fluid d-block mx-auto"
+                  src="{{ project.image }}"
+                  alt="{{ project.alt }}"
+                />
               {% endif %}
               <button
                 class="btn btn-primary"
