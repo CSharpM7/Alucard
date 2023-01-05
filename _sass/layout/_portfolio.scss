@@ -73,8 +73,9 @@
 .portfolio-modal {
   .modal-dialog {
     margin: 2rem;
-    max-width: 100vw;
-    //horizontal-align: middle;
+    max-width: 75vw;
+    horizontal-align: middle;
+    vertical-align: middle;
   }
   .modal-content {
     padding: 100px 0;
