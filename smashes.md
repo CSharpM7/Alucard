@@ -28,6 +28,7 @@ Angling Forward Smash downwards gives you Icebrand, where the tip of the sword w
 
 Angling Forward Smash upwards gives you Firebrand. This explosive attack is the most damaging out of the three angles, and the sweetspot is also much larger. It's only main drawback is not being able to hit opponents close to the ground.
 
+<br/>
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Up Smash</h2>
 </div>
