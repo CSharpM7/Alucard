@@ -13,11 +13,13 @@ Bro
 
 <img class="img-fluid d-block mx-auto" src="assets\img\moveset\fsmashLw.png" alt="">
 <div class="col-lg-12 text-center">
-	<h3 class="section-heading text-uppercase"></h3>
+	<h3 class="section-heading text-uppercase">Icebrand (FSmash Angled Down)</h3>
 </div>
+
+
 <img class="img-fluid d-block mx-auto" src="assets\img\moveset\fsmashHi.png" alt="">
 <div class="col-lg-12 text-center">
-	<h3 class="section-heading text-uppercase"></h3>
+	<h3 class="section-heading text-uppercase">Firebrand (FSmash Angled Up)</h3>
 </div>
 
 
