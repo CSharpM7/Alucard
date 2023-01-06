@@ -58,7 +58,7 @@ en: &DEFAULT_EN
 
       - title: "What happens to Richter?"
         desc: "Richter is being moved to Simon's alternate slots (similar to Bayo 1/Bayo 2, Olimar/Alpha, Ike/Ike), so the only difference will be Holy Water is now a fire-based move."
-        icon: fas fa-solid fa-times
+        icon: fas fa-solid fa-user-times
 
 
       - title: "Is this wifi safe?"
@@ -123,21 +123,36 @@ en: &DEFAULT_EN
       # left is the default
       #start_align: "left"
       events:
-        - title: "Overview"
+        - title: "Overview Video"
           year: "January 2023"
           desc: ""
-          #image: assets/img/timeline/1.jpg
+          image: assets/img/timeline/release.png
           alt:
-        - title: "Something"
-          year: "?!?"
-          desc: ""
-          #image: assets/img/timeline/2.jpg
+        - title: "Alternate Costumes 2-4"
+          year: "2023"
+          desc: "Now you can finally play with four Alucards!"
+          image: assets/img/timeline/release.png
           alt:
         - title: "Expressions Update"
-          year: "?!?"
-          desc: ""
-          #image: assets/img/timeline/3.jpg
+          year: "2023"
+          desc: "Expressions given to all the custom moves"
+          image: assets/img/timeline/release.png
           alt: image alt text
+        - title: "Model Update"
+          year: "2023"
+          desc: "Will Alucard finally have moving fingers? Will Alucard's wings use the same texture as the bat form's wings?"
+          image: assets/img/timeline/release.png
+          alt: image alt text
+        - title: "Alternate Costumes 5-8"
+          year: "2023"
+          desc: "Did someone say 8 player free for all?"
+          image: assets/img/timeline/release.png
+          alt: image alt text
+        - title: "Post-Beta Video"
+          year: "2023 or 2024"
+          desc: "Showcasing changes between the original overview trailer and beta's completion"
+          image: assets/img/timeline/release.png
+          alt:
         - title: "Public Release"
           year: "2023 or 2024"
           desc: ""
