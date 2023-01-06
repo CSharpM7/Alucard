@@ -81,7 +81,7 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-trophy
 
       - title: "Could I make recolors?"
-        desc: "At this current time, I do recommend not making any alternate costumes for Alucard as the model isn't finalized. I might change some of the UV's on his wings, or remodel his hands."
+        desc: "At this current time, I do recommend not making any alternate costumes for Alucard as the model isn't finalized. I might change some of the UVs on his wings, or remodel his hands."
         icon: fas fa-solid fa-paint-brush
 
 
@@ -131,27 +131,27 @@ en: &DEFAULT_EN
           year: "January 2023"
           desc: ""
           image: assets/img/timeline/release.png
-          alt:
+          #alt:
         - title: "Alternate Costumes 2-4"
           year: "2023"
           desc: "Now you can finally play with four Alucards!"
           image: assets/img/timeline/release.png
-          alt:
+          #alt:
         - title: "Expressions Update"
           year: "2023"
           desc: "Expressions given to all the custom moves"
           image: assets/img/timeline/release.png
-          alt: image alt text
+          #alt: image alt text
         - title: "Model Update"
           year: "2023"
           desc: "Will Alucard finally have moving fingers? Will Alucard's wings use the same texture as the bat form's wings?"
           image: assets/img/timeline/release.png
-          alt: image alt text
+          #alt: image alt text
         - title: "Alternate Costumes 5-8"
           year: "2023"
           desc: "Did someone say 8 player free for all?"
           image: assets/img/timeline/release.png
-          alt: image alt text
+          #alt: image alt text
         - title: "Post-Beta Video"
           year: "2023 or 2024"
           desc: "Showcasing changes between the original overview trailer and beta's completion"
@@ -161,7 +161,7 @@ en: &DEFAULT_EN
           year: "2023 or 2024"
           desc: ""
           image: assets/img/timeline/release.png
-          alt:
+          #alt:
           # you can enforce the alignment
           #align: right
       end: "Current<br>Version:<br>0.5"

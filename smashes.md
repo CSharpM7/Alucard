@@ -30,8 +30,17 @@ Angling Forward Smash upwards gives you Firebrand. This explosive attack is the 
 
 <br/>
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Up Smash</h2>
+	<h2 class="section-heading text-uppercase">Up Smash (Summon Familiar)</h2>
 </div>
 <img class="img-fluid d-block mx-auto" src="assets\img\moveset\upsmash.png" alt="">
 
+Alucard summons the Sword Familiar upwards, similar to Bayonetta's UpSmash but with several key differences. The magic field the sword will spawn from will launch any foe standing on it upwards and directly to where the familiar will hit. The sword will last for a while, where the first few frames have a very potent launching hitbox, and the later frames have a weak hitbox that pokes opponents that land on it. Overall, this move will leave Alucard vulnerable from behind, but being able to stop projectiles in front of you, hit opponents on the ground, and being a potent kill option is well worth the risk. 
 
+
+<br/>
+<div class="col-lg-12 text-center">
+	<h2 class="section-heading text-uppercase">Down Smash</h2>
+</div>
+<img class="img-fluid d-block mx-auto" src="assets\img\moveset\dsmash.png" alt="">
+
+Mostly unchanged from Richter, though the sweetspot is now larger.
