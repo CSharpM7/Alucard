@@ -4,7 +4,7 @@
   .navbar-toggler {
     font-size: 12px;
     right: 0;
-    padding: 13px;
+    padding: 1px;
     text-transform: uppercase;
     color: white;
     border: 0;
@@ -40,8 +40,8 @@
 }
 @media (min-width: 992px) {
   #mainNav {
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 24px;
+    padding-bottom: 24px;
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
