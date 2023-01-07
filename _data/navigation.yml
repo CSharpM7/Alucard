@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "About"
       section: about
     - title: "Moveset"
-      section: team
+      section: moveset
     - title: "FAQ"
       section: faq
 #    - title: "Timeline"

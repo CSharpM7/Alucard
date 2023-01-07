@@ -89,7 +89,7 @@ en: &DEFAULT_EN
       title: "Moveset"
       text: ""
       subtext: ""
-      section: team
+      section: moveset
       people:
 #        - name: "Normals"
 #          role: "Whoa"
