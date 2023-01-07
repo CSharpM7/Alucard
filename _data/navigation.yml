@@ -11,8 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: " "
-      url: " "
+    - title: "About"
+      section: about
+    - title: "Moveset"
+      section: team
+    - title: "FAQ"
+      section: services
+#    - title: "Timeline"
+#      section: timeline
 en-US:
   <<: *DEFAULT_EN
 en-CA:
