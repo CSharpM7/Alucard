@@ -183,8 +183,9 @@ en: &DEFAULT_EN
         icon: "fas fa-solid fa-coffee"
 
   download:
-    title: "Early Access Link!"
-    url: ""
+    title: "Download"
+    url: https://ko-fi.com/csharpm7
+    linkname: "?"
     section: download
 
 en-US:
