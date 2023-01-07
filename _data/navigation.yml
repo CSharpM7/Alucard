@@ -17,8 +17,10 @@ en: &DEFAULT_EN
       section: moveset
     - title: "FAQ"
       section: faq
-#    - title: "Timeline"
-#      section: timeline
+    - title: "Timeline"
+      section: timeline
+    - title: "Download"
+      section: download
 en-US:
   <<: *DEFAULT_EN
 en-CA:
