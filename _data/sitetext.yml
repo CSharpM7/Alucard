@@ -62,15 +62,15 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-user-times
 
       - title: "When will Alucard publicly release?"
-        desc: "Just scroll down a little bit more!"
+        desc: "Alucard is scheduled to release Winter 2023/2024, though this is a very strong estimate. While most of the moveset work is finished, there's still animations that need to be polished, models that need to be upgraded, and alternate costumes that need to be created. I am honored by your excited, but please be patient while I try to make this the quintessential moveset mod for Ultimate."
         icon: fas fa-solid fa-hourglass-half
         
-#      - title: "What's earl access?"
-#        desc: "?!?"
-#        icon: fas fa-solid fa-coffee
+      - title: "How does Early Access work?"
+        desc: "Similar to the rest of the gaming industry, Early Access is a way for players to help shape and mold the balancing and design of a product. You'll have access to this mod way before the public does, and have a voice on the balancing and design of this character. This also helps me filter constructive criticism from the average internet user who wants Alucard either absurdly broken or extremely underwhelming. You will receive access to all updates while subscribed, as well as access to **all** previous versions so you can continue to play with unsubscribed players."
+        icon: fas fa-solid fa-coffee
 
       - title: "Is this wifi safe?"
-        desc: "All players must be using this mod to make this wifi safe. Obviously, do not play Alucard on quickplay, but you can play in Arenas as long as all parties have Alucard active, and are on the same version of Alucard as well."
+        desc: "All players must be using this mod on the exact same version to make this wifi safe. Obviously, do not play Alucard on Quickplay, but you can play in Arenas as long as all parties have Alucard active, and are on the same version of Alucard as well."
         icon: fas fa-solid fa-wifi
 
       - title: "Is this compatible with other modpacks (ie HDR, Ultimate-S)"
@@ -79,7 +79,7 @@ en: &DEFAULT_EN
         #fa-database
 
       - title: "Will Alucard join [modpack]"
-        desc: "It's at the discretion of both the modpack developer and I whether Alucard should be a part of a modpack. Most importantly, because Alucard replaces Richter, the playerbase of these modpacks must have a majority that will agree to replacing Richter with Alucard."
+        desc: "It's at the discretion of both the modpack developer and I whether Alucard should be a part of a modpack. Most importantly, because Alucard replaces Richter, the playerbase of these modpacks must have a majority that will agree to replacing Richter with Alucard. That is to say, it's highly unlikely and please do not harass the developers over incorporating Alucard."
         icon: fas fa-solid fa-address-card
 
       - title: "Could I run tournaments with Alucard?"
