@@ -46,7 +46,7 @@ en: &DEFAULT_EN
   services:
     title: "FAQ"
     text: "Select frequently asked questions and possible solutions"
-    section: services
+    section: faq
     list:
       - title: "Is this a new fighter?"
         desc: "Technically no, Alucard is a COMPLETE replacement over Richter. This means everything from most of the moveset, to classic mode route, to tips, and even Palutena's Guidance (which is just her saying she has no data on Alucard) are replaced."

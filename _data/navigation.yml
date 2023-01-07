@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     - title: "Moveset"
       section: team
     - title: "FAQ"
-      section: services
+      section: faq
 #    - title: "Timeline"
 #      section: timeline
 en-US:
