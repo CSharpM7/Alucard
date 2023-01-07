@@ -55,6 +55,7 @@ en: &DEFAULT_EN
       - title: "Could this moveset be single-slotted?"
         desc: "Singleslotted means that this moveset will only work on one specific costume (ie Alucard is the eighth slot of Richter, and only that specific slot has the full Alucard moveset). There are several reasons why this will never be a planned feature, chief among them is the extreme amount of time that would have to go into remaking vanilla Richter, and making sure all changed parameters are hooked properly. Even though extra development time is being spent on alternate costumes, the goal of this moveset is to feel like Alucard was always in the original game."
         icon: fas fa-solid fa-user-circle
+        #id-badge
 
       - title: "What happens to Richter?"
         desc: "Richter is being moved to Simon's alternate slots (similar to Bayo 1/Bayo 2, Olimar/Alpha, Ike/Ike), so the only difference will be Holy Water is now a fire-based move."
@@ -64,7 +65,7 @@ en: &DEFAULT_EN
         desc: "Just scroll down a little bit more!"
         icon: fas fa-solid fa-hourglass-half
         
-#      - title: "?"
+#      - title: "What's earl access?"
 #        desc: "?!?"
 #        icon: fas fa-solid fa-coffee
 
@@ -74,7 +75,12 @@ en: &DEFAULT_EN
 
       - title: "Is this compatible with other modpacks (ie HDR, Ultimate-S)"
         desc: "Yes, though this will not work out of the box. There might be Arcropolis conflicts with motion files, and there will be different fighter params (which control run speed, jump height and various other stats). I recommend making a copy of the modpack, but removing sound, model and motion files that are related to Richter. You might also want to edit the fighter_params.prcxml file found in fighter/common/param and remove entries that pertain to Richter, as well as remove the vl.prcxml file found in fighter/richter/param."
-        icon: fas fa-solid fa-database
+        icon: fas fa-solid fa-address-book
+        #fa-database
+
+      - title: "Will Alucard join [modpack]"
+        desc: "It's at the discretion of both the modpack developer and I whether Alucard should be a part of a modpack. Most importantly, because Alucard replaces Richter, the playerbase of these modpacks must have a majority that will agree to replacing Richter with Alucard."
+        icon: fas fa-solid fa-address-card
 
       - title: "Could I run tournaments with Alucard?"
         desc: "Uhhhhhhh ya sure. It's not like he's a new, uncontested top tier character. You probably want to get feedback from your local scene, and maybe not make it a PR sanctioned event. Oh and probably don't run a bracket with Alucard in it for a Nintendo sponsored event."
