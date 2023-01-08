@@ -16,3 +16,10 @@ Dark Metamorphosis is a state where any sword attack Alucard lands will heal Alu
 </div>
 <img class="img-fluid d-block mx-auto" src="assets\img\moveset\inferno.png" alt="">
 During Neutral Special, if you hold down the special attack button, this becomes Dark Inferno. Dark Inferno is a slow moving ball of destruction, that will explode on impact (including exploding on shields)! Dark Inferno will also explode after a set amount of time.
+
+<br/>
+<div class="col-lg-12 text-center">
+	<h2 class="section-heading text-uppercase">Wing Crash</h2>
+</div>
+<img class="img-fluid d-block mx-auto" src="assets\img\moveset\upspecial.png" alt="">
+A spiraling variant of Wing Smash that has super armor, and travels further.

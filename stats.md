@@ -9,7 +9,7 @@ background: grey
 </div>
 <img class="img-fluid d-block mx-auto" src="assets\img\moveset\stats.png" alt="">
 
-Alucard summons a vortex that absorbs the souls of unfortunate foes, healing with each bit of soul you steal. The last hit will KO foes above 100%, and crumple anyone else! This Final Smash will miss if there are no vulnerable characters on screen, or within a decent range of Alucard, so make sure you time this move correctly.
+Alucard is much more mobile than Richter, but at the cost of being much lighter.
 
 Most stats not listed here are the same as Richter's
 
