@@ -101,6 +101,10 @@ en: &DEFAULT_EN
 #          role: "Whoa"
 #          image: assets\img\moveset\dash.png
 #          url: "pictochat"
+        - name: "Stats"
+          role: "Movement speed, jump height, and more!"
+          image: assets\img\moveset\stats.png
+          url: "stats"
         - name: "Tilts"
           role: "Strong swordsmanship"
           image: assets\img\moveset\ftilt.png
@@ -117,10 +121,6 @@ en: &DEFAULT_EN
           role: "Harness the night"
           image: assets\img\moveset\upspecial.png
           url: "specials"
-        - name: "Final Smash"
-          role: "A one-of-a-kind finale"
-          image: assets\img\moveset\final.png
-          url: "finalsmash"
         - name: "Dark Metamorphosis"
           role: "Take back the lead"
           image: assets\img\moveset\sspecial.png
