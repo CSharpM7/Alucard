@@ -21,5 +21,5 @@ During Neutral Special, if you hold down the special attack button, this becomes
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Wing Crash</h2>
 </div>
-<img class="img-fluid d-block mx-auto" src="assets\img\moveset\upspecial.png" alt="">
-A spiraling variant of Wing Smash that has super armor, and travels further.
+<img class="img-fluid d-block mx-auto" src="assets\img\moveset\crash.png" alt="">
+A spiraling variant of Wing Smash that has super armor, and travels further. Could be very potent on stage, but it does deplete a noticeable amount of time. You will automatically use this move whenever you use up special.

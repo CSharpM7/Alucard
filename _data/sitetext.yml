@@ -62,11 +62,11 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-user-times
 
       - title: "When will Alucard publicly release?"
-        desc: "Alucard is scheduled to release Winter 2023/2024, though this is a very strong estimate. While most of the moveset work is finished, there's still animations that need to be polished, models that need to be upgraded, and alternate costumes that need to be created. I am honored by your excited, but please be patient while I try to make this the quintessential moveset mod for Ultimate."
+        desc: "Alucard is scheduled to release Winter 2023/2024, though this is a very strong estimate. While most of the moveset work is finished, there's still animations that need to be polished, models that need to be upgraded, and alternate costumes that need to be created. I am honored by your excited, but please be patient while I try to make this the quintessential moveset mod for Ultimate. Who knows, I might be able to release this earlier than Winter if things go smoothly."
         icon: fas fa-solid fa-hourglass-half
         
       - title: "How does Early Access work?"
-        desc: "Similar to the rest of the gaming industry, Early Access is a way for players to help shape and mold the balancing and design of a product. You'll have access to this mod way before the public does, and have a voice on the balancing and design of this character. This also helps me filter constructive criticism from the average internet user who wants Alucard either absurdly broken or extremely underwhelming. You will receive access to all updates while subscribed, as well as access to **all** previous versions so you can continue to play with unsubscribed players."
+        desc: "Similar to the rest of the gaming industry, Early Access is a way for players to help shape and mold the balancing and design of a product. You'll have access to this mod way before the public does, and have a voice on the balancing and design of this character. This also helps me work on the rest of the extra content (ie model improvements and alternate costumes) while early access players help test the core gameplay. You will receive access to all updates while subscribed, as well as access to **all** previous versions so you can continue to play with unsubscribed players."
         icon: fas fa-solid fa-coffee
 
       - title: "Is this wifi safe?"
