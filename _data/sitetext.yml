@@ -66,8 +66,13 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-hourglass-half
         
       - title: "How does Early Access work?"
-        desc: "Similar to the rest of the gaming industry, Early Access is a way for players to help shape and mold the balancing and design of a product. You'll have access to this mod way before the public does, and have a voice on the balancing and design of this character. This also helps me work on the rest of the extra content (ie model improvements and alternate costumes) while early access players help test the core gameplay. You will receive access to all updates while subscribed, as well as access to **all** previous versions so you can continue to play with unsubscribed players."
+        desc: "Similar to the rest of the gaming industry, Early Access is a way for players to help shape and mold the balancing and design of a product. You'll have access to this mod way before the public does, and have a voice on the balancing and design of this character. This also helps me work on the rest of the extra content (ie model improvements and alternate costumes) while early access players help test the core gameplay. You will receive access to all updates while subscribed, as well as access to **all** previous versions so you can continue to play with unsubscribed players.
+        Oh and you will also receive Early Access to my stage mods! There is something groundbreaking in the works right now..."
         icon: fas fa-solid fa-coffee
+        
+      - title: "How much will Alucard cost after Early Access?"
+        desc: "Alucard will be 100% free once completed. However, with 7 additional costumes, various model optimizations, and whatever random complications arise, it could be awhile before Alucard is 100% completed. If you want to play him as soon as possible, my recommendation is to only do Early Access for a month and see how you like him!"
+        icon: fas fa-solid fa-usd
 
       - title: "Is this wifi safe?"
         desc: "All players must be using this mod on the exact same version to make this wifi safe. Obviously, do not play Alucard on Quickplay, but you can play in Arenas as long as all parties have Alucard active, and are on the same version of Alucard as well."
