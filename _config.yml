@@ -20,11 +20,17 @@ baseurl: "/Alucard" # the subpath of your site, e.g. /blog
 
 title      : Alucard
 email      :  #this is also the email contact forms will go to
-description: ""
+description: "The homepage for C#'s Alucard moveset. Has information on moveset, FAQs, current timeline, and download links"
 author     : C#
 logo:     #optional, defaults to site title
    path: assets\img\logo.png
    height: 32 #height in px, defaults to 52px
+
+image:
+  path: assets/img/screenshots/teaser.png
+  height: 200
+  width: 200
+  alt: Twitter Logo
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
@@ -43,3 +49,4 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme 
+  - jekyll-seo-tag
