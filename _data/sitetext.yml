@@ -21,9 +21,11 @@ en: &DEFAULT_EN
     title: "Alucard Joins Smash!"
     text: "A moveset mod by C#"
     body: "The son of Dracula takes over Richter's spot as the new Castlevania rep! Alucard is a master swordsman who can use dark magic to overpower foes. His heirloom sword has phenomenal reach, but if an opponent gets too close, he won't think twice about throwing a quick punch. His special and smash attacks make use of his dark magic, delivering devastating blows. When you're on your Achilles' heel, use your command grab to enter Dark Metamorphosis and heal from each successful hit of your sword.<br/>
-    
         
-    As Alucard is a master of many skills, harnessing his true power might take a little more practice. Precision and reaction will be your greatest tools with Alucard, knowing where your opponent will be and making the most out of your combo starters will net you many victories. Mix up your strategy with his special attack projectiles, or his side special command grab. As a light fighter, Alucard can't take too many hits so be cautious of the moves you throw out."
+    As Alucard is a master of many skills, harnessing his true power might take a little more practice. Precision and reaction will be your greatest tools with Alucard, knowing where your opponent will be and making the most out of your combo starters will net you many victories. Mix up your strategy with his special attack projectiles, or his side special command grab. As a light fighter, Alucard can't take too many hits so be cautious of the moves you throw out, and his options to escape disadvantageous positions are more limited than other fighters.
+    
+    You'll enjoy Alucard if you find characters like Ridley, Lucina, or Palutena interesting. Instead of extravagant combos, Alucard is about making the most of the hits you make, breaking down your opponent's gameplan, and sealing a stock with a devastating attack or overwhelming pressure. He's also got some extra pizzazz in his moveset for his specials and his smash attacks, so some of the Belmont classic setplay seeps through his moveset.
+    "
     section: about
 
   clients:
@@ -101,7 +103,7 @@ en: &DEFAULT_EN
 
       - title: "Where's wolf form?"
         desc: "Why is this a commonly asked question? Not only are there not enough folders to make this work, not only would that require a new model, but I would have to rig and animate a quadrupedal character for one attack. It's not worth it."
-        icon: 🐺
+        icon: fas fa-solid fa-times
 
 
   team:
