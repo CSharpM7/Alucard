@@ -96,11 +96,11 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-paint-brush
 
       - title: "Where's mist form?"
-        desc: "No"
+        desc: "I definitely want to incorporate mist form, but the visual clarity of mist form makes it tough to put in. I would like a full unique move for mist, but it might have to go on some of his dodges. The primary focus on Alucard is to decrease the amount of confusion when fighting him, or playing as him, for the first few times, and this might be on the fence."
         icon: fas fa-solid fa-cloud
 
       - title: "Where's wolf form?"
-        desc: "No"
+        desc: "Why is this a commonly asked question? Not only are there not enough folders to make this work, not only would that require a new model, but I would have to rig and animate a quadrupedal character for one attack. It's not worth it."
         icon: 🐺
 
 
