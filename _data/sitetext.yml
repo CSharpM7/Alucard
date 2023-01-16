@@ -80,6 +80,10 @@ en: &DEFAULT_EN
         desc: "All players must be using this mod on the exact same version to make this wifi safe. Obviously, do not play Alucard on Quickplay, but you can play in Arenas as long as all parties have Alucard active, and are on the same version of Alucard as well."
         icon: fas fa-solid fa-wifi
 
+      - title: "Does this work on emulator?"
+        desc: "Sorry, I won't be able to properly test with this works on emulator. If it works, great. If it doesn't, I won't be trying to make it compatible for it."
+        icon: fas fa-solid fa-desktop
+
       - title: "Is this compatible with other modpacks (ie HDR, Ultimate-S)"
         desc: "Yes, though this will not work out of the box. There might be Arcropolis conflicts with motion files, and there will be different fighter params (which control run speed, jump height and various other stats). I recommend making a copy of the modpack, but removing sound, model and motion files that are related to Richter. You might also want to edit the fighter_params.prcxml file found in fighter/common/param and remove entries that pertain to Richter, as well as remove the vl.prcxml file found in fighter/richter/param."
         icon: fas fa-solid fa-address-book
