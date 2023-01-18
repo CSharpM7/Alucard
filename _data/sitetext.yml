@@ -93,6 +93,10 @@ en: &DEFAULT_EN
         desc: "It's at the discretion of both the modpack developer and I whether Alucard should be a part of a modpack. Most importantly, because Alucard replaces Richter, the playerbase of these modpacks must have a majority that will agree to replacing Richter with Alucard. That is to say, it's highly unlikely and please do not harass the developers over incorporating Alucard."
         icon: fas fa-solid fa-address-card
 
+      - title: "Is Dark Metamorphosis broken?"
+        desc: "Wait why are you saying something is broken without trying it first? I would prefer to have custom UI but that's not something I can do, and that would make him incompatible with a few modpacks. The other option is some hybrid of waft where meter is gained throughout the stock, and you can cash out by hitting side special above a certain threshold. This is why we playtest."
+        icon: fas fa-solid fa-balance-scale
+
       - title: "Could I run tournaments with Alucard?"
         desc: "Uhhhhhhh ya sure. It's not like he's a new, uncontested top tier character. You probably want to get feedback from your local scene, and maybe not make it a PR sanctioned event. Oh and probably don't run a bracket with Alucard in it for a Nintendo sponsored event."
         icon: fas fa-solid fa-trophy

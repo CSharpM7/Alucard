@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Earl Access
+title: Early Access
 background: grey
 ---
 
