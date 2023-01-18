@@ -20,9 +20,9 @@ en: &DEFAULT_EN
   about:
     title: "Alucard Joins Smash!"
     text: "A moveset mod by C#"
-    body: "The son of Dracula takes over Richter's spot as the new Castlevania rep! Alucard is a master swordsman who can use dark magic to overpower foes. His heirloom sword has phenomenal reach, but if an opponent gets too close, he won't think twice about throwing a quick punch. His special and smash attacks make use of his dark magic, delivering devastating blows. When you're on your Achilles' heel, use your command grab to enter Dark Metamorphosis and heal from each successful hit of your sword.<br/>
+    body: "The son of Dracula takes over Richter's spot as the new Castlevania rep! Alucard is a master swordsman who can use dark magic to overpower foes. His heirloom sword has phenomenal reach, but if an opponent gets too close, he won't think twice about throwing a quick punch. His special and smash attacks make use of his dark magic, delivering devastating blows. When you're on your Achilles' heel, use your command grab to enter Dark Metamorphosis and heal from each successful hit of your sword.<br/><br/>
         
-    As Alucard is a master of many skills, harnessing his true power might take a little more practice. Precision and reaction will be your greatest tools with Alucard, knowing where your opponent will be and making the most out of your combo starters will net you many victories. Mix up your strategy with his special attack projectiles, or his side special command grab. As a light fighter, Alucard can't take too many hits so be cautious of the moves you throw out, and his options to escape disadvantageous positions are more limited than other fighters.
+    As Alucard is a master of many skills, harnessing his true power might take a little more practice. Precision and reaction will be your greatest tools with Alucard, knowing where your opponent will be and making the most out of your combo starters will net you many victories. Mix up your strategy with his special attack projectiles, or his side special command grab. As a light fighter, Alucard can't take too many hits so be cautious of the moves you throw out, and his options to escape disadvantageous positions are more limited than other fighters.<br/><br/>
     
     You'll enjoy Alucard if you find characters like Ridley, Lucina, or Palutena interesting. Instead of extravagant combos, Alucard is about making the most of the hits you make, breaking down your opponent's gameplan, and sealing a stock with a devastating attack or overwhelming pressure. He's also got some extra pizzazz in his moveset for his specials and his smash attacks, so some of the Belmont classic setplay seeps through his moveset.
     "
@@ -169,7 +169,7 @@ en: &DEFAULT_EN
           #alt: image alt text
         - title: "Model Update"
           year: "2023"
-          desc: "Will Alucard finally have moving fingers? Will Alucard's wings use the same texture as the bat form's wings?"
+          desc: "Will Alucard finally have moving fingers? Will Alucard's wings use the same texture as the bat form's wings? Will he stop using Eight's shield?"
           image: assets/img/timeline/release.png
           #alt: image alt text
         - title: "Alternate Costumes 5-8"
@@ -184,12 +184,16 @@ en: &DEFAULT_EN
           alt:
         - title: "Public Release"
           year: "2023 or 2024"
-          desc: ""
+          desc: "A free download for everyone!"
+          image: assets/img/timeline/release.png
+        - title: "V2 Model"
+          year: "20XX"
+          desc: "If I ever get the time to get a fully redesigned model..."
           image: assets/img/timeline/release.png
           #alt:
           # you can enforce the alignment
           #align: right
-      end: "Current<br>Version:<br>0.5"
+      end: "Current<br>Version:<br>0.1"
 
   footer:
     legal: " "
