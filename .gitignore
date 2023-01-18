@@ -6,3 +6,5 @@ Gemfile.lock
 _portfolio/ui_stage_db.xml
 
 pictochat.html
+
+*.pdn
