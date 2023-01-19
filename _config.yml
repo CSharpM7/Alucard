@@ -35,7 +35,7 @@ image:
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-DLD3SET335 #Google Analytics tracking code here
 
 collections:
   portfolio:
