@@ -18,4 +18,4 @@ Here are the texture names that Alucard currently uses
 	<h4 class="section-heading text-uppercase">Editing Effects</h4>
 </div>
 
-Sorry! Almost all of Alucard uses common item effects, rather than Richter's vanilla ones due to how daunting creating new effects and hex editing is. Particularly for trails which cannot have their colors changed through code.
+Sorry! Almost all of Alucard uses common item effects, rather than Richter's vanilla ones due to how daunting creating new effects and hex editing is. Luckily the trails can still be edited, though.
