@@ -15,7 +15,7 @@ Alucard's standard attack from Castlevania III. This is a tall projectile that k
 	<h2 class="section-heading text-uppercase">Side Special (Dark Dive)</h2>
 </div>
 <img class="img-fluid d-block mx-auto" src="assets\img\moveset\sspecial.png" alt="">
-It's an unspoken rule that all vampires in fighting games must have a command grab, so here's Alucard's. This move takes inspiration from Dracula's Soul Steal move in Order of Ecclesia. Foes hit by this move are forcibly moved up, and Alucard then steals their soul. For using his father's dark magic, Alucard enters Dark Metamorphosis.
+It's an unspoken rule that all vampires in fighting games must have a command grab, so here's Alucard's. This move takes inspiration from Dracula's Soul Steal move in Order of Ecclesia. Foes hit by this move are forcibly moved up, and Alucard then steals their soul. When Alucard's cloak is glowing read, he enters Dark Metamorphosis.
 
 <br/>
 <div class="col-lg-12 text-center">

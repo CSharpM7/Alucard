@@ -19,6 +19,13 @@ During Neutral Special, if you hold down the special attack button, this becomes
 
 <br/>
 <div class="col-lg-12 text-center">
+	<h2 class="section-heading text-uppercase">Soul Steal</h2>
+</div>
+<img class="img-fluid d-block mx-auto" src="assets\img\moveset\soulsteal.png" alt="">
+Catching someone during side special will change this move into Soul Steal. Alucard converts the remaining Dark Metamorphosis time into health, and ends the Dark Metamorphosis state.
+
+<br/>
+<div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Wing Crash</h2>
 </div>
 <img class="img-fluid d-block mx-auto" src="assets\img\moveset\crash.png" alt="">
