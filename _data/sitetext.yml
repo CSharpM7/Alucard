@@ -212,7 +212,7 @@ en: &DEFAULT_EN
   download:
     title: "Download"
     url: https://ko-fi.com/csharpm7
-    linkname: "?"
+    linkname: "Early Access Version"
     section: download
 
 en-US:
