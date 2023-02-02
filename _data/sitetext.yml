@@ -95,7 +95,7 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-address-card
 
       - title: "Is Dark Metamorphosis broken?"
-        desc: "Wait why are you saying something is broken without trying it first? I would prefer to have custom UI but that's not something I can do, and that would make him incompatible with a few modpacks. The other option is some hybrid of waft where meter is gained throughout the stock, and you can cash out by hitting side special above a certain threshold. This is why we playtest."
+        desc: "Wait why are you saying something is broken without trying it first? I would prefer to have custom UI but that's not something I can do, and that would make him incompatible with a few modpacks. Right now Dark Metamorphosis has an internal meter system, somewhat similar to Rebel's Gauge. This will still need avid playtesting to balance it out, but I honestly think it's a well-balanced mechanic."
         icon: fas fa-solid fa-balance-scale
 
       - title: "Could I run tournaments with Alucard?"

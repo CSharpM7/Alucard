@@ -21,6 +21,13 @@ In training mode, you will receive full Dark Metamorphosis meter for landing thi
 
 <br/>
 <div class="col-lg-12 text-center">
+	<h2 class="section-heading text-uppercase">Side Special X (Mist Dash)</h2>
+</div>
+<img class="img-fluid d-block mx-auto" src="assets\img\moveset\mistdash.png" alt="">
+For modpacks that modify gameplay, Dark Dive currently isn't compatible. Instead, Alucard's side special becomes Mist Dash. This move works like an airdash, and can be cancelled with a jump or an aerial.
+
+<br/>
+<div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Up Special (Wing Rush)</h2>
 </div>
 <img class="img-fluid d-block mx-auto" src="assets\img\moveset\upspecial.png" alt="">
