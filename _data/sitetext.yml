@@ -211,8 +211,8 @@ en: &DEFAULT_EN
 
   download:
     title: "Download"
-    url: http://ko-fi.com/csharpm7/tiers
-    linkname: "Early Access Version"
+    url: http://ko-fi.com/csharpm7/
+    linkname: "Early Access Version (Release TBD)"
     section: download
 
 en-US:
