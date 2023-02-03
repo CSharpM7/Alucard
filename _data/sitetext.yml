@@ -162,16 +162,16 @@ en: &DEFAULT_EN
           desc: ""
           image: assets/img/timeline/release.png
           #alt:
+        - title: "Early Access Begins"
+          year: "February 3rd, 2023"
+          desc: "Alucard moves out of alpha and into closed beta testing"
+          image: assets/img/timeline/release.png
+          #alt: image alt text
         - title: "Alternate Costumes 2-4"
           year: "2023"
           desc: "Now you can finally play with four Alucards!"
           image: assets/img/timeline/release.png
           #alt:
-        - title: "Expressions Update"
-          year: "2023"
-          desc: "Expressions given to all the custom moves"
-          image: assets/img/timeline/release.png
-          #alt: image alt text
         - title: "Model Update"
           year: "2023"
           desc: "Will Alucard finally have moving fingers? Will Alucard's wings use the same texture as the bat form's wings? Will he stop using Eight's shield?"
