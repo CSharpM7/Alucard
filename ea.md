@@ -20,9 +20,10 @@ EA members will be given access to the mod folder, simply place it in your `ulti
 - [smashline](https://github.com/blu-dev/smashline_hook/releases) 
 - [nro_hook](https://github.com/ultimate-research/nro-hook-plugin/releases)
 
-
 Smashline and nro_hook go into `atmosphere/contents/01006A800016E000/romfs/skyline/plugins`, skyline goes into the folder with a bunch of numbers.
-Your `ultimate/mods` folder should now have Alucard, Alucard Moveset, and Alucard Moveset X. For playing "vanilla" smash, you'll need to enable Alucard and Alucard Moveset. For playing a modpack such as HDR or Ult-S (these aren't entirely supported at the moment), you'll need to enable Alucard and Alucard Moveset X
+
+
+Your `ultimate/mods` folder should now have `Alucard`, `Alucard Moveset`, and `Alucard Moveset X`. For playing "vanilla" smash, you'll need to enable `Alucard` and `Alucard Moveset`. For playing a modpack such as HDR or Ult-S (these aren't entirely supported at the moment), you'll need to enable `Alucard` and `Alucard Moveset X` (or `Alucard Mist Moveset`)
 
 <div class="col-lg-12 text-center">
 	<h3 class="section-heading text-uppercase">Gameplay Mod Compatibility</h3>
