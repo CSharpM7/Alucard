@@ -15,15 +15,14 @@ Right now Alucard is in a VERY early state of things, you can kinda tell by his 
 <div class="col-lg-12 text-center">
 	<h3 class="section-heading text-uppercase">Installation</h3>
 </div>
-EA members will be given access to the mod folder, simply place it in your `ultimate/mods` folder. You will also need to install:
-- [Skyline](https://github.com/skyline-dev/skyline) (you might already have this)
-- [smashline](https://github.com/blu-dev/smashline_hook/releases) 
-- [nro_hook](https://github.com/ultimate-research/nro-hook-plugin/releases)
+EA members will be given access to the mod folder, simply unzip the folder and place it in your switch. It might ask to replace a few files, as `skyline`, `nro_hook`,`smashline`, and `param_hook` are bundled. The `.nro` files are located in `atmosphere/contents/01006A800016E000/romfs/skyline/plugins`. 
 
-Smashline and nro_hook go into `atmosphere/contents/01006A800016E000/romfs/skyline/plugins`, skyline goes into the folder with a bunch of numbers.
+Your `ultimate/mods` folder should now have `alucard`, `alucard moveset`, and `alucard moveset x`. Boot up smash ultimate, and when prompted to enabled new mods, make sure you say no! Open arcropolis (eshop menu), and go to the mod manager. For playing "vanilla" smash, you'll need to enable `Alucard` and `Alucard Moveset`. For playing a modpack such as HDR or Ult-S (these aren't entirely supported at the moment), you'll need to enable `Alucard` and `Alucard Moveset X` (or `Alucard Moveset Mist`). These modpacks might also cause "conflicts" with similar files, which you will need to iron out yourself.
 
-
-Your `ultimate/mods` folder should now have `Alucard`, `Alucard Moveset`, and `Alucard Moveset X`. For playing "vanilla" smash, you'll need to enable `Alucard` and `Alucard Moveset`. For playing a modpack such as HDR or Ult-S (these aren't entirely supported at the moment), you'll need to enable `Alucard` and `Alucard Moveset X` (or `Alucard Mist Moveset`)
+<div class="col-lg-12 text-center">
+	<h3 class="section-heading text-uppercase">Training Mod Pack</h3>
+</div>
+Yes! Make sure you are using the "beta" or "pre-release" version of the TMP, found [here](https://github.com/jugeeya/UltimateTrainingModpack/releases/tag/beta).
 
 <div class="col-lg-12 text-center">
 	<h3 class="section-heading text-uppercase">Gameplay Mod Compatibility</h3>
