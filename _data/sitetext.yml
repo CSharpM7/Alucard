@@ -55,7 +55,7 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-user-plus
 
       - title: "Could this moveset be single-slotted?"
-        desc: "Singleslotted means that this moveset will only work on one specific costume (ie Alucard is the eighth slot of Richter, and only that specific slot has the full Alucard moveset). There are several reasons why this will never be a planned feature, chief among them is the extreme amount of time that would have to go into remaking vanilla Richter, and making sure all changed parameters are hooked properly. Even though extra development time is being spent on alternate costumes, the goal of this moveset is to feel like Alucard was always in the original game."
+        desc: "Singleslotted means that this moveset will only work on one specific costume (ie Alucard is the eighth slot of Richter, and only that specific slot has the full Alucard moveset). There are several reasons why this will never be a planned feature, chief among them is the extreme amount of time that would have to go into remaking vanilla Richter, and that these types of movesets are incompatible with gameplay mods like HDR. Even though extra development time is being spent on alternate costumes, the goal of this moveset is to feel like Alucard was always in the original game."
         icon: fas fa-solid fa-user-circle
         #id-badge
 

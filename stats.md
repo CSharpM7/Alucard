@@ -28,4 +28,4 @@ Most stats not listed here are the same as Richter's
 | Backward Roll: Start Up | 4 | Fox, Sheik |
 | Backward Roll: Last I-Frame | 17 | Ganondorf, Ridley |
 | Fastest OoS | Neutral Air (8) | Chrom Upair, Incineroar Nair |
-| Second Fastest OoS | Back Air / Neutral Air (9) | Byleth Nair, Inkling Bair |
+| Second Fastest OoS | Back Air / Neutral Air / Mist Dash (Armor) (9) | Byleth Nair, Inkling Bair |
