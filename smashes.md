@@ -43,7 +43,7 @@ Alucard summons the Sword Familiar upwards, similar to Bayonetta's UpSmash but w
 </div>
 <img class="img-fluid d-block mx-auto" src="assets\img\moveset\dsmash.png" alt="">
 
-Mostly unchanged from Richter, though the sweetspot is now larger.
+A unique downsmash with two different properties. The first hitbox that hits grounded opponents will spike them! Combined with the low first active frame of this move, you can combo into aerials from this hit. On aerial opponents, it will send them upwards instead. There is also a secret spike hitbox on Alucard's hand for one frame!
 
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Final Smash</h2>
