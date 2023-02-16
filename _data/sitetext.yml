@@ -22,9 +22,9 @@ en: &DEFAULT_EN
     text: "A moveset mod by C#"
     body: "The son of Dracula takes over Richter's spot as the new Castlevania rep! Alucard is a master swordsman who can use dark magic to overpower foes. His heirloom sword has phenomenal reach, but if an opponent gets too close, he won't think twice about throwing a quick punch. His special and smash attacks make use of his dark magic, delivering devastating blows. When you're on your Achilles' heel, use your command grab to enter Dark Metamorphosis and heal from each successful hit of your sword.<br/><br/>
         
-    As Alucard is a master of many skills, harnessing his true power might take a little more practice. Precision and reaction will be your greatest tools with Alucard, knowing where your opponent will be and making the most out of your combo starters will net you many victories. Mix up your strategy with his special attack projectiles, or his side special command grab. As a light fighter, Alucard can't take too many hits so be cautious of the moves you throw out, and his options to escape disadvantageous positions are more limited than other fighters.<br/><br/>
+    As Alucard is a master of many skills, harnessing his true power might take a little more practice. Precision will be your greatest tool with Alucard, knowing where your opponent will be, and which direction they are will be launched in is paramount to netting victories. Mix up your strategy with his special attack projectiles, or his side special command grab. As a light fighter, Alucard can't take too many hits so be cautious of the moves you throw out. His options to escape disadvantageous positions are also more limited than other fighters.<br/><br/>
     
-    You'll enjoy Alucard if you find characters like Ridley, Lucina, or Palutena interesting. Instead of extravagant combos, Alucard is about making the most of the hits you make, breaking down your opponent's gameplan, and sealing a stock with a devastating attack or overwhelming pressure. He's also got some extra pizzazz in his moveset for his specials and his smash attacks, so some of the Belmont classic setplay seeps through his moveset.
+    You'll enjoy Alucard if you find characters like Ridley, Corrin, or Joker interesting. Instead of flashy, extravagant combos, Alucard is about making the most of the hits you make. Most of his kit will lead into forward or up air, but you'll have to know where your opponent will be to make the most of your combo starters. He's also got some extra pizzazz in his moveset for his specials and his smash attacks, so some of the Belmont classic setplay still seeps through his moveset. Once you understand your opponent, you can take the lead by entering Dark Metamorphosis and healing some of the damage you took before you lose your stock!
     "
     section: about
 
@@ -86,7 +86,7 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-desktop
 
       - title: "Is this compatible with other modpacks (ie HDR, Ultimate-S)"
-        desc: "Yes, though this will not work out of the box. There might be Arcropolis conflicts with motion files, and there will be different fighter params (which control run speed, jump height and various other stats). I recommend making a copy of the modpack, but removing sound, model and motion files that are related to Richter. You might also want to edit the fighter_params.prcxml file found in fighter/common/param and remove entries that pertain to Richter, as well as remove the vl.prcxml file found in fighter/richter/param."
+        desc: "Yes, though this will not work out of the box. There might be Arcropolis conflicts with motion files, and there will be different fighter params (which control run speed, jump height and various other stats). I recommend making a copy of the modpack, but removing sound, model and motion files that are related to Richter. You might also want to edit the fighter_params.prcxml file found in fighter/common/param and remove entries that pertain to Richter, as well as remove the vl.prcxml file found in fighter/richter/param. There's no easy way to set all this up, but once you do, you'll be treated to some exclusive content like Alucard's phenomenal wavedash, or the Mist Dash special move!"
         icon: fas fa-solid fa-address-book
         #fa-database
 
@@ -95,7 +95,7 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-address-card
 
       - title: "Is Dark Metamorphosis broken?"
-        desc: "Wait why are you saying something is broken without trying it first? I would prefer to have custom UI but that's not something I can do, and that would make him incompatible with a few modpacks. Right now Dark Metamorphosis has an internal meter system, somewhat similar to Rebel's Gauge. This will still need avid playtesting to balance it out, but I honestly think it's a well-balanced mechanic."
+        desc: "Wait why are you saying something is broken without trying it first? I would prefer to have custom UI but that's not something I can do, and that would make him incompatible with a few modpacks. Right now Dark Metamorphosis has an internal meter system, somewhat similar to Rebel's Gauge. This will still need avid playtesting to balance it out, but I honestly think it's a well-balanced mechanic. The meter's gain is also decreased when entering Dark Meta multiple times per stock, and depending on the number of players in the match!"
         icon: fas fa-solid fa-balance-scale
 
       - title: "Could I run tournaments with Alucard?"
@@ -106,8 +106,8 @@ en: &DEFAULT_EN
         desc: "At this current time, I do recommend not making any alternate costumes for Alucard as the model isn't finalized. I might change some of the UVs on his wings, or remodel his hands."
         icon: fas fa-solid fa-paint-brush
 
-      - title: "Where's mist form?"
-        desc: "I definitely want to incorporate mist form, but the visual clarity of mist form makes it tough to put in. I would like a full unique move for mist, but it might have to go on some of his dodges. The primary focus on Alucard is to decrease the amount of confusion when fighting him, or playing as him, for the first few times, and this might be on the fence."
+      - title: "What's Mist Dash?"
+        desc: "Mist Dash is an alternate special attack that you can turn on in place of Dark Dive. Think of it like an air dash with the ability cancel it with an aerial! Dark Dive uses some tricky programming, which could behave poorly with modpacks or other movesets. If you want to enable it, simply turn on the Moveset X (Mist) mod instead of the original moveset. Alucard is mostly balanced around his Dark Dive special, so he might be a little less balanced when taking this move into consideration. "
         icon: fas fa-solid fa-cloud
 
       - title: "Where's wolf form?"
@@ -168,7 +168,7 @@ en: &DEFAULT_EN
           image: assets/img/timeline/release.png
           #alt: image alt text
         - title: "Alternate Costumes 2-4"
-          year: "2023"
+          year: "February/March 2023"
           desc: "Now you can finally play with four Alucards!"
           image: assets/img/timeline/release.png
           #alt:
