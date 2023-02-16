@@ -8,7 +8,7 @@ background: grey
 	<h2 class="section-heading text-uppercase">Neutral Air</h2>
 </div>
 <img class="img-fluid d-block mx-auto" src="assets\img\moveset\nair.png" alt="">
-Performs the downwards, unequipped attack from Symphony of the Night, though no need to worry about a "secret meteor hitbox" here. Hits in front and a little bit behind, a decent move to land with or to trade against weak projectiles.
+Performs the downwards, unequipped attack from Symphony of the Night, though no need to worry about a "secret meteor hitbox" here. Hits in front and a little bit behind, a decent move to land with or to trade against weak projectiles. It can also link into Forward Air, or even into itself!
 
 <br/>
 <div class="col-lg-12 text-center">
