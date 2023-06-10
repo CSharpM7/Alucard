@@ -25,6 +25,11 @@ en: &DEFAULT_EN
     As Alucard is a master of many skills, harnessing his true power might take a little more practice. Precision will be your greatest tool with Alucard, knowing where your opponent will be, and which direction they are will be launched in is paramount to netting victories. Mix up your strategy with his special attack projectiles, or his side special command grab. As a light fighter, Alucard can't take too many hits so be cautious of the moves you throw out. His options to escape disadvantageous positions are also more limited than other fighters.<br/><br/>
     
     You'll enjoy Alucard if you find characters like Ridley, Corrin, or Joker interesting. Instead of flashy, extravagant combos, Alucard is about making the most of the hits you make. Most of his kit will lead into forward or up air, but you'll have to know where your opponent will be to make the most of your combo starters. He's also got some extra pizzazz in his moveset for his specials and his smash attacks, so some of the Belmont classic setplay still seeps through his moveset. Once you understand your opponent, you can take the lead by entering Dark Metamorphosis and healing some of the damage you took before you lose your stock!
+
+    Additional Credits:
+    **Zepic**: Shield Model
+    **80constant**: Spirit UI Effect Edits
+    **Wuboy**: Custom-Variable Module for HDR compatibility, Script Repository 
     "
     section: about
 
@@ -159,7 +164,7 @@ en: &DEFAULT_EN
         - title: "Overview Video"
           year: "January 2023"
           desc: ""
-          image: assets/img/timeline/release.png
+          image: assets/img/timeline/none.png
           #alt:
         - title: "Early Access Begins"
           year: "February 3rd, 2023"
@@ -169,12 +174,12 @@ en: &DEFAULT_EN
         - title: "Alternate Costumes"
           year: "February-June 2023"
           desc: "Now you can finally play with up to eight Alucards!"
-          image: assets/img/timeline/release.png
+          image: assets/img/timeline/alts.png
           #alt: image alt text
         - title: "Model Update"
           year: "June 2023"
-          desc: "Will Alucard finally have moving fingers? Will Alucard's wings use the same texture as the bat form's wings? Will he stop using Eight's shield?"
-          image: assets/img/timeline/release.png
+          desc: "Alucard receives some slight model and animation updates"
+          image: assets/img/timeline/model.png
           #alt: image alt text
         - title: "Public Release"
           year: "Summer 2023"
@@ -184,12 +189,18 @@ en: &DEFAULT_EN
         - title: "V2 Model"
           year: "20XX"
           desc: "If I ever get the time to get a fully redesigned model..."
-          image: assets/img/timeline/release.png
+          image: assets/img/timeline/v2.png
           #alt:
           # you can enforce the alignment
           #align: right
       end: "Current<br>Version:<br>0.5"
 
+  download:
+    title: "Download"
+    url: http://ko-fi.com/csharpm7/tiers
+    linkname: "Early Access Version (Available Now!)"
+    section: download
+    
   footer:
     legal: " "
     social:
@@ -200,11 +211,6 @@ en: &DEFAULT_EN
       - url: https://ko-fi.com/csharpm7
         icon: "fas fa-solid fa-coffee"
 
-  download:
-    title: "Download"
-    url: http://ko-fi.com/csharpm7/tiers
-    linkname: "Early Access Version (Available Now!)"
-    section: download
 
 en-US:
   <<: *DEFAULT_EN
