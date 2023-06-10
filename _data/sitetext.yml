@@ -48,9 +48,9 @@ en: &DEFAULT_EN
       - title: "Fair"
         logo: assets\img\screenshots\screen1.png
       - title: "Victory 1"
-        logo: assets\img\screenshots\screen3.png
+        logo: assets\img\screenshots\screen5.png
       - title: "Victory 2"
-        logo: assets\img\screenshots\screen4.png
+        logo: assets\img\screenshots\screen6.png
   
   services:
     title: "FAQ"
