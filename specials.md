@@ -8,7 +8,7 @@ background: grey
 	<h2 class="section-heading text-uppercase">Neutral Special (Hellfire)</h2>
 </div>
 <img class="img-fluid d-block mx-auto" src="assets\img\moveset\nspecial.png" alt="">
-Alucard's standard attack from Castlevania III. This is a tall projectile that knocks foes away. Only one can be out at a given time. It currently carries over the Belmont Axe's quirk of going through the stage.
+Alucard's standard attack from Castlevania III. This is a tall projectile that knocks foes away. Only one can be out at a given time. It will become weaker and slower if any of the fireballs collide with the stage, and will completely be destroyed upon hitting an opponent. 
 
 <br/>
 <div class="col-lg-12 text-center">
@@ -24,7 +24,7 @@ In training mode, you will receive full Dark Metamorphosis meter for landing thi
 	<h2 class="section-heading text-uppercase">Side Special X (Mist Dash)</h2>
 </div>
 <img class="img-fluid d-block mx-auto" src="assets\img\moveset\mistdash.png" alt="">
-For modpacks that modify gameplay, Dark Dive currently isn't compatible. Instead, Alucard's side special becomes Mist Dash. This move works like an airdash, and can be cancelled with an aerial.
+For modpacks that modify gameplay, Dark Dive currently isn't compatible. Instead, Alucard's side special becomes Mist Dash. This move works like an airdash, and can be cancelled with an aerial. Use on the ground to quickly close the distance between zoners, or use in the air to try and get back to center stage! **HDR:** Due to the recovery sweep, Alucard cannot use Side Special and Up Special in the same airtime.
 
 <br/>
 <div class="col-lg-12 text-center">

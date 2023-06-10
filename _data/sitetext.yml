@@ -42,8 +42,10 @@ en: &DEFAULT_EN
         logo: https://i9.ytimg.com/vi_webp/ZC2azKbwPXE/mqdefault.webp?v=63a962fa&sqp=COTr2p0G&rs=AOn4CLCAE-m80aAnzWVJ4C8vu4mHicWHCA
       - title: "Fair"
         logo: assets\img\screenshots\screen1.png
-      - title: "Victory"
-        logo: assets\img\screenshots\screen5.png
+      - title: "Victory 1"
+        logo: assets\img\screenshots\screen3.png
+      - title: "Victory 2"
+        logo: assets\img\screenshots\screen4.png
   
   services:
     title: "FAQ"
@@ -55,16 +57,16 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-user-plus
 
       - title: "Could this moveset be single-slotted?"
-        desc: "Singleslotted means that this moveset will only work on one specific costume (ie Alucard is the eighth slot of Richter, and only that specific slot has the full Alucard moveset). There are several reasons why this will never be a planned feature, chief among them is the extreme amount of time that would have to go into remaking vanilla Richter, and that these types of movesets are incompatible with gameplay mods like HDR. Even though extra development time is being spent on alternate costumes, the goal of this moveset is to feel like Alucard was always in the original game."
+        desc: "Singleslotted means that this moveset will only work on one specific costume (ie Alucard is the ninth slot of Richter, and only that specific slot has the full Alucard moveset). There are several reasons why this will never be a planned feature, chief among them is that these types of movesets are incompatible with gameplay mods. The goal of this moveset is to feel like Alucard was always in the original game, so breaking compatibility with other mods would do a disservice to Alucard."
         icon: fas fa-solid fa-user-circle
         #id-badge
 
       - title: "What happens to Richter?"
-        desc: "Richter is being moved to Simon's alternate slots (similar to Bayo 1/Bayo 2, Olimar/Alpha, Ike/Ike), so the only difference will be Holy Water is now a fire-based move."
+        desc: "Richter can be moved to Simon's alternate slots (similar to Bayo 1/Bayo 2, Olimar/Alpha, Ike/Ike), so the only difference will be Holy Water is now a fire-based move."
         icon: fas fa-solid fa-user-times
 
       - title: "When will Alucard publicly release?"
-        desc: "Alucard is scheduled to release Winter 2023/2024, though this is a very strong estimate. While most of the moveset work is finished, there's still animations that need to be polished, models that need to be upgraded, and alternate costumes that need to be created. I am honored by your excited, but please be patient while I try to make this the quintessential moveset mod for Ultimate. Who knows, I might be able to release this earlier than Winter if things go smoothly."
+        desc: "Alucard is scheduled to release to the public Summer 2023."
         icon: fas fa-solid fa-hourglass-half
         
       - title: "How does Early Access work?"
@@ -82,11 +84,12 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-wifi
 
       - title: "Does this work on emulator?"
-        desc: "Sorry, I won't be able to properly test with this works on emulator. If it works, great. If it doesn't, I won't be trying to make it compatible for it."
+        desc: "Sorry, I won't be able to properly test if this works on emulator. He is intended to work on a modified switch with a legally obtained copy of Super Smash Bros Ultimate."
         icon: fas fa-solid fa-desktop
 
-      - title: "Is this compatible with other modpacks (ie HDR, Ultimate-S)"
-        desc: "Yes, though this will not work out of the box. There might be Arcropolis conflicts with motion files, and there will be different fighter params (which control run speed, jump height and various other stats). I recommend making a copy of the modpack, but removing sound, model and motion files that are related to Richter. You might also want to edit the fighter_params.prcxml file found in fighter/common/param and remove entries that pertain to Richter, as well as remove the vl.prcxml file found in fighter/richter/param. There's no easy way to set all this up, but once you do, you'll be treated to some exclusive content like Alucard's phenomenal wavedash, or the Mist Dash special move!"
+      - title: "Is this compatible with other modpacks and other movesets?"
+        desc: "Yes, though this will not work out of the box. There might be Arcropolis conflicts with motion files, and there will be different fighter params (which control run speed, jump height and various other stats). I recommend making a copy of the modpack, but removing motion and param files that are related to Richter. There's no easy way to set all this up, but once you do, you'll be treated to some exclusive content like Alucard's phenomenal wavedash, or the Mist Dash special move!|
+        For other movesets, compatibility is mixed, as it's impossible to account for every theoretical moveset."
         icon: fas fa-solid fa-address-book
         #fa-database
 
@@ -94,16 +97,12 @@ en: &DEFAULT_EN
         desc: "It's at the discretion of both the modpack developer and I whether Alucard should be a part of a modpack. Most importantly, because Alucard replaces Richter, the playerbase of these modpacks must have a majority that will agree to replacing Richter with Alucard. That is to say, it's highly unlikely and please do not harass the developers over incorporating Alucard."
         icon: fas fa-solid fa-address-card
 
-      - title: "Is Dark Metamorphosis broken?"
-        desc: "Wait why are you saying something is broken without trying it first? I would prefer to have custom UI but that's not something I can do, and that would make him incompatible with a few modpacks. Right now Dark Metamorphosis has an internal meter system, somewhat similar to Rebel's Gauge. This will still need avid playtesting to balance it out, but I honestly think it's a well-balanced mechanic. The meter's gain is also decreased when entering Dark Meta multiple times per stock, and depending on the number of players in the match!"
-        icon: fas fa-solid fa-balance-scale
-
       - title: "Could I run tournaments with Alucard?"
         desc: "Uhhhhhhh ya sure. It's not like he's a new, uncontested top tier character. You probably want to get feedback from your local scene, and maybe not make it a PR sanctioned event. Oh and probably don't run a bracket with Alucard in it for a Nintendo sponsored event."
         icon: fas fa-solid fa-trophy
 
       - title: "Could I make recolors?"
-        desc: "At this current time, I do recommend not making any alternate costumes for Alucard as the model isn't finalized. I might change some of the UVs on his wings, or remodel his hands."
+        desc: "Sure...do note that there could be changes to Alucard's model made in the future. This won't happen for a while, and you will be notified if this process starts to take place."
         icon: fas fa-solid fa-paint-brush
 
       - title: "What's Mist Dash?"
@@ -167,30 +166,21 @@ en: &DEFAULT_EN
           desc: "Alucard moves out of alpha and into closed beta testing"
           image: assets/img/timeline/release.png
           #alt: image alt text
-        - title: "Alternate Costumes 2-4"
-          year: "February/March 2023"
-          desc: "Now you can finally play with four Alucards!"
+        - title: "Alternate Costumes"
+          year: "February-June 2023"
+          desc: "Now you can finally play with up to eight Alucards!"
           image: assets/img/timeline/release.png
-          #alt:
+          #alt: image alt text
         - title: "Model Update"
-          year: "2023"
+          year: "June 2023"
           desc: "Will Alucard finally have moving fingers? Will Alucard's wings use the same texture as the bat form's wings? Will he stop using Eight's shield?"
           image: assets/img/timeline/release.png
           #alt: image alt text
-        - title: "Alternate Costumes 5-8"
-          year: "2023"
-          desc: "Did someone say 8 player free for all?"
-          image: assets/img/timeline/release.png
-          #alt: image alt text
-        - title: "Post-Beta Video"
-          year: "2023 or 2024"
-          desc: "Showcasing changes between the original overview trailer and beta's completion"
-          image: assets/img/timeline/release.png
-          alt:
         - title: "Public Release"
-          year: "2023 or 2024"
+          year: "Summer 2023"
           desc: "A free download for everyone!"
           image: assets/img/timeline/release.png
+          #alt: image alt text
         - title: "V2 Model"
           year: "20XX"
           desc: "If I ever get the time to get a fully redesigned model..."
@@ -198,7 +188,7 @@ en: &DEFAULT_EN
           #alt:
           # you can enforce the alignment
           #align: right
-      end: "Current<br>Version:<br>0.1"
+      end: "Current<br>Version:<br>0.5"
 
   footer:
     legal: " "

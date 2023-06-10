@@ -36,14 +36,13 @@ Angling Forward Smash upwards gives you Firebrand. This explosive attack is the 
 
 Alucard summons the Sword Familiar upwards, similar to Bayonetta's UpSmash but with several key differences. The magic field the sword will spawn from will launch any foe standing on it upwards and directly to where the familiar will hit. The sword will last for a while, where the first few frames have a very potent launching hitbox, and the later frames have a weak hitbox that pokes opponents that land on it. Overall, this move will leave Alucard vulnerable from behind, but has great shield damage for the sword spawning hitbox. This smash attack is very niche, and you might not find great use for it in competitive play.
 
-
 <br/>
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Down Smash (Summon Spirits)</h2>
 </div>
 <img class="img-fluid d-block mx-auto" src="assets\img\moveset\dsmash.png" alt="">
 
-Based on the Tetraspirit attack from Judgement, this is a unique downsmash with two different properties. The first hitbox that hits grounded opponents will spike them! Combined with the low first active frame of this move, you can combo into aerials from this hit. On aerial opponents, it will send them upwards instead. There is also a secret spike hitbox on Alucard's hand for one frame! (V0.2) While playing HDR or ULT-S, you can jump cancel this move on hit!
+Based on the Tetraspirit attack from Judgement, this move covers both of Alucard's sides. Opponents will be sent up and out, so it might be decent for KOing off the top instead of using up smash. The hand has a unique spike hitbox for one frame when slamming down on the ground, it'll be extremely rare to hit this part of the move.
 
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Final Smash</h2>

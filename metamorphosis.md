@@ -31,4 +31,4 @@ Catching someone during side special will change this move into Soul Steal. Aluc
 	<h2 class="section-heading text-uppercase">Wing Crash</h2>
 </div>
 <img class="img-fluid d-block mx-auto" src="assets\img\moveset\crash.png" alt="">
-A spiraling variant of Wing Smash that has heavy armor, and travels further. Could be very potent on stage, but it does deplete a noticeable amount of time. You will automatically use this move whenever you use up special.
+A spiraling variant of Wing Smash that has heavy armor, and travels further. Could be very potent on stage, but it does deplete a noticeable amount of meter. You will automatically use this move whenever you use up special.
