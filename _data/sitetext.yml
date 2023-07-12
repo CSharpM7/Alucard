@@ -46,8 +46,10 @@ en: &DEFAULT_EN
       - title: "Teaser"
         url: "https://www.youtube.com/watch?v=ZC2azKbwPXE"
         logo: https://i9.ytimg.com/vi_webp/ZC2azKbwPXE/mqdefault.webp?v=63a962fa&sqp=COTr2p0G&rs=AOn4CLCAE-m80aAnzWVJ4C8vu4mHicWHCA
-      - title: "Fair"
+      - title: "Pose"
         logo: assets\img\screenshots\screen1.png
+      - title: "Fair"
+        logo: assets\img\screenshots\screen2.png
       - title: "Victory 1"
         logo: assets\img\screenshots\screen5.png
       - title: "Victory 2"
