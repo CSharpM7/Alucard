@@ -31,6 +31,7 @@ en: &DEFAULT_EN
     **80constant**: Spirit UI Effect Edits
     **Wuboy**: Custom-Variable Module for HDR compatibility, Script Repository 
     **StephenJPlant**: Announcer call
+    **CoolSonicKirby**: CSS Redirector
     "
     section: about
 
@@ -46,13 +47,16 @@ en: &DEFAULT_EN
       - title: "Teaser"
         url: "https://www.youtube.com/watch?v=ZC2azKbwPXE"
         logo: https://i9.ytimg.com/vi_webp/ZC2azKbwPXE/mqdefault.webp?v=63a962fa&sqp=COTr2p0G&rs=AOn4CLCAE-m80aAnzWVJ4C8vu4mHicWHCA
+      - title: "Gameplay"
+        url: "https://www.youtube.com/watch?v=e1Kwp_Asfnc"
+        logo: https://i9.ytimg.com/vi_webp/e1Kwp_Asfnc/mqdefault.webp?v=63a962fa&sqp=COTr2p0G&rs=AOn4CLCAE-m80aAnzWVJ4C8vu4mHicWHCA
       - title: "Pose"
         logo: assets\img\screenshots\screen1.png
       - title: "Fair"
         logo: assets\img\screenshots\screen2.png
-      - title: "Victory 1"
+      - title: "Victory"
         logo: assets\img\screenshots\screen5.png
-      - title: "Victory 2"
+      - title: "Team"
         logo: assets\img\screenshots\screen6.png
   
   services:
