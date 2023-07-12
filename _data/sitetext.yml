@@ -112,7 +112,6 @@ en: &DEFAULT_EN
         desc: "Why is this a commonly asked question? Not only are there not enough folders to make this work, not only would that require a new model, but I would have to rig and animate a quadrupedal character for one attack. Not to mention, there's no more available directories for me to use to create a new model. It's impossible, and I'm not willing to do this."
         icon: fas fa-solid fa-times
 
-
   team:
       title: "Moveset"
       text: ""
