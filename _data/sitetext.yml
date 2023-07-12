@@ -62,28 +62,18 @@ en: &DEFAULT_EN
         desc: "Technically no, Alucard is a COMPLETE replacement over Richter. This means everything from most of the moveset, to classic mode route, to tips, and even Palutena's Guidance (which is just her saying she has no data on Alucard) are replaced."
         icon: fas fa-solid fa-user-plus
 
+      - title: "What happens to Richter?"
+        desc: "Through some clever magic (thank you CoolSonicKirby), Richter becomes a singe-slotted moveset over Simon. This lets Richter take the latter half of all of Simon's slots (c127-c255), which allows him to retain his taunts and his classic mode route. This has an unfortunate side effect of everything else being shared with Simon, including Palutena's guidance and Victory Poses, but it's a worthy sacrifice to keep him in."
+        icon: fas fa-solid fa-user-times
+
       - title: "Could this moveset be single-slotted?"
-        desc: "Singleslotted means that this moveset will only work on one specific costume (ie Alucard is the ninth slot of Richter, and only that specific slot has the full Alucard moveset). There are several reasons why this will never be a planned feature, chief among them is that these types of movesets are incompatible with gameplay mods. The goal of this moveset is to feel like Alucard was always in the original game, so breaking compatibility with other mods would do a disservice to Alucard."
+        desc: "Singleslotted means that this moveset will only work on one specific costume (ie Alucard is the ninth slot of Richter, and only that specific slot has the full Alucard moveset). There's no reason for Alucard to be single-slotted when Richter can be single-slotted instead."
         icon: fas fa-solid fa-user-circle
         #id-badge
 
-      - title: "What happens to Richter?"
-        desc: "Richter can be moved to Simon's alternate slots (similar to Bayo 1/Bayo 2, Olimar/Alpha, Ike/Ike), so the only difference will be Holy Water is now a fire-based move."
-        icon: fas fa-solid fa-user-times
-
       - title: "When will Alucard publicly release?"
-        desc: "Alucard is scheduled to release to the public Summer 2023."
+        desc: "Alucard is scheduled to release to the public Summer 2023. He will be available as a free download"
         icon: fas fa-solid fa-hourglass-half
-        
-      - title: "How does Early Access work?"
-        desc: "Early Access is a way for players to help shape and mold the balancing and design of a product. There will be an Early Access tier on my ko-fi page to access this. You'll have access to this mod way before the public does, and have a voice on the balancing and design of this character. This also helps me work on the rest of the extra content (ie model improvements and alternate costumes) while early access players help test the core gameplay. You will receive access to all updates while subscribed, as well as access to **all** previous versions so you can continue to play with unsubscribed players.
-        
-        To start Early Access, head over to the Downloads link below, and select the Early Access tier."
-        icon: fas fa-solid fa-coffee
-        
-      - title: "How much will Alucard cost after Early Access?"
-        desc: "Alucard will be 100% free once completed. However, with 7 additional costumes, various model optimizations, and whatever random complications arise, it could be awhile before Alucard is 100% completed. If you want to play him as soon as possible, my recommendation is to only do Early Access for a month and see how you like him!"
-        icon: fas fa-solid fa-shopping-cart
 
       - title: "Is this wifi safe?"
         desc: "All players must be using this mod on the exact same version to make this wifi safe. Obviously, do not play Alucard on Quickplay, but you can play in Arenas as long as all parties have Alucard active, and are on the same version of Alucard as well."
@@ -94,14 +84,19 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-desktop
 
       - title: "Is this compatible with other modpacks and other movesets?"
-        desc: "Yes, though this will not work out of the box. There might be Arcropolis conflicts with motion files, and there will be different fighter params (which control run speed, jump height and various other stats). I recommend making a copy of the modpack, but removing motion and param files that are related to Richter. There's no easy way to set all this up, but once you do, you'll be treated to some exclusive content like Alucard's phenomenal wavedash, or the Mist Dash special move!|
+        desc: "Yes, though this will not work out of the box. There might be Arcropolis conflicts with motion files, and there will be different fighter params (which control run speed, jump height and various other stats). I recommend making a copy of the modpack, but removing motion and param files that are related to Richter. There's no easy way to set all this up, but once you do, you'll be treated to some exclusive content like Alucard's phenomenal wavedash, or the Mist Dash special move!
+
         For other movesets, compatibility is mixed, as it's impossible to account for every theoretical moveset."
         icon: fas fa-solid fa-address-book
         #fa-database
 
       - title: "Will Alucard join [modpack]"
-        desc: "It's at the discretion of both the modpack developer and I whether Alucard should be a part of a modpack. Most importantly, because Alucard replaces Richter, the playerbase of these modpacks must have a majority that will agree to replacing Richter with Alucard. That is to say, it's highly unlikely and please do not harass the developers over incorporating Alucard."
+        desc: "It's at the discretion of both the modpack developer and I whether Alucard should be a part of a modpack, so please do not harass the developers over incorporating Alucard."
         icon: fas fa-solid fa-address-card
+
+      - title: "What's Mist Dash?"
+        desc: "Mist Dash is an alternate special attack that you can turn on in place of Dark Dive. Think of it like an air dash with the ability cancel it with an aerial! Dark Dive uses some tricky programming, which could behave poorly with modpacks or other movesets. If you want to enable it, simply turn on the Moveset X (Mist) mod instead of the original moveset. Alucard is mostly balanced around his Dark Dive special, so he might be a little less balanced when taking this move into consideration. "
+        icon: fas fa-solid fa-cloud
 
       - title: "Could I run tournaments with Alucard?"
         desc: "Uhhhhhhh ya sure. It's not like he's a new, uncontested top tier character. You probably want to get feedback from your local scene, and maybe not make it a PR sanctioned event. Oh and probably don't run a bracket with Alucard in it for a Nintendo sponsored event."
@@ -110,10 +105,6 @@ en: &DEFAULT_EN
       - title: "Could I make recolors?"
         desc: "Sure...do note that there could be changes to Alucard's model made in the future. This won't happen for a while, and you will be notified if this process starts to take place."
         icon: fas fa-solid fa-paint-brush
-
-      - title: "What's Mist Dash?"
-        desc: "Mist Dash is an alternate special attack that you can turn on in place of Dark Dive. Think of it like an air dash with the ability cancel it with an aerial! Dark Dive uses some tricky programming, which could behave poorly with modpacks or other movesets. If you want to enable it, simply turn on the Moveset X (Mist) mod instead of the original moveset. Alucard is mostly balanced around his Dark Dive special, so he might be a little less balanced when taking this move into consideration. "
-        icon: fas fa-solid fa-cloud
 
       - title: "Where's wolf form?"
         desc: "Why is this a commonly asked question? Not only are there not enough folders to make this work, not only would that require a new model, but I would have to rig and animate a quadrupedal character for one attack. Not to mention, there's no more available directories for me to use to create a new model. It's impossible, and I'm not willing to do this."
