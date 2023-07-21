@@ -190,12 +190,12 @@ en: &DEFAULT_EN
           #alt:
           # you can enforce the alignment
           #align: right
-      end: "Current<br>Version:<br>0.5"
+      end: "Current<br>Version:<br>1.0"
 
   download:
     title: "Download"
-    url: http://ko-fi.com/csharpm7/tiers
-    linkname: "Early Access Version (Available Now!)"
+    url: https://github.com/CSharpM7/alucard-release
+    linkname: "Main Release"
     section: download
     
   footer:
